@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description"
+        content="RAIKU Community Leaderboard — Track top contributors and their activity across Discord channels.">
+    <title>RAIKU Leaderboard</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=Space+Grotesk:wght@400;500;600;700&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <!-- Ambient Background -->
+    <div class="bg-grid"></div>
+    <div class="bg-glow bg-glow--1"></div>
+    <div class="bg-glow bg-glow--2"></div>
+
+    <!-- Header -->
+    <header class="header">
+        <div class="header__inner">
+            <a href="#" class="header__logo">
+                <img class="header__logo-icon" src="media/logo.svg" alt="RAIKU Logo">
+                <span class="header__logo-text">RAIKU</span>
+                <span class="header__logo-badge">LEADERBOARD</span>
+            </a>
+            <div class="header__stats" id="headerStats">
+                <div class="header__stat">
+                    <span class="header__stat-value" id="totalUsers">—</span>
+                    <span class="header__stat-label">Members</span>
+                </div>
+                <div class="header__stat">
+                    <span class="header__stat-value" id="totalMessages">—</span>
+                    <span class="header__stat-label">Messages</span>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="hero__content">
+            <h1 class="hero__title">
+                <span class="hero__title-line">Community</span>
+                <span class="hero__title-line hero__title-line--accent">Leaderboard</span>
+            </h1>
+            <p class="hero__subtitle">Explore the most active members of the RAIKU community. Climb the ranks, be seen.
+            </p>
+            <p class="hero__credit">dev - <a href="https://x.com/1Asgore1" target="_blank"
+                    rel="noopener noreferrer">asgore</a></p>
+        </div>
+    </section>
+
+    <!-- Controls -->
+    <section class="controls">
+        <div class="controls__inner">
+            <!-- Search -->
+            <div class="search" id="searchContainer">
+                <svg class="search__icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <circle cx="11" cy="11" r="8" />
+                    <path d="m21 21-4.35-4.35" />
+                </svg>
+                <input type="text" class="search__input" id="searchInput" placeholder="Search by tag..."
+                    autocomplete="off">
+                <button class="search__clear" id="searchClear" aria-label="Clear search">&times;</button>
+            </div>
+
+            <!-- Filters -->
+            <div class="filters">
+                <div class="filter-group">
+                    <label class="filter-label">Channel</label>
+                    <div class="select-wrapper">
+                        <select class="filter-select" id="channelFilter">
+                            <option value="all">All Channels</option>
+                        </select>
+                        <svg class="select-arrow" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                            stroke-width="2">
+                            <path d="m6 9 6 6 6-6" />
+                        </svg>
+                    </div>
+                </div>
+                <div class="filter-group">
+                    <label class="filter-label">Show</label>
+                    <div class="select-wrapper">
+                        <select class="filter-select" id="perPageFilter">
+                            <option value="25">25</option>
+                            <option value="50" selected>50</option>
+                            <option value="100">100</option>
+                        </select>
+                        <svg class="select-arrow" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                            stroke-width="2">
+                            <path d="m6 9 6 6 6-6" />
+                        </svg>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Leaderboard -->
+    <main class="leaderboard">
+        <!-- Top 3 Podium -->
+        <div class="podium" id="podium"></div>
+
+        <!-- Table -->
+        <div class="table-wrapper">
+            <table class="table" id="leaderboardTable">
+                <thead>
+                    <tr>
+                        <th class="table__th table__th--rank">#</th>
+                        <th class="table__th table__th--user">Member</th>
+                        <th class="table__th table__th--messages">Messages</th>
+                        <th class="table__th table__th--channels">Channels</th>
+                    </tr>
+                </thead>
+                <tbody id="leaderboardBody"></tbody>
+            </table>
+        </div>
+
+        <!-- Empty State -->
+        <div class="empty-state" id="emptyState" style="display:none;">
+            <svg class="empty-state__icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+                <circle cx="11" cy="11" r="8" />
+                <path d="m21 21-4.35-4.35" />
+                <path d="M8 11h6" />
+            </svg>
+            <p class="empty-state__text">No members found matching your search.</p>
+        </div>
+
+        <!-- Pagination -->
+        <div class="pagination" id="pagination"></div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <p class="footer__text">RAIKU Community &copy; 2025. All data sourced from Discord activity.</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
