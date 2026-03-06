@@ -44,17 +44,14 @@ jobs:
 
           MODE: incremental
 
-          # пути выходных файлов (лежат в репо)
           CHECKPOINT_PATH: checkpoint.json
           EXPORT_PATH: users.json
 
-          # если НЕ нужен server nick (и чтобы не было долгого DISPLAY-FB):
-          FETCH_MEMBER_DISPLAY: "0"
+          FETCH_MEMBER_DISPLAY: "1"
 
-          # если хочешь логировать сообщения (обычно НЕ надо для репо):
           LOG_MESSAGES: "0"
         run: |
-          python message_v7.py
+          python user_stats.py
 
       - name: Commit updated json
         run: |
