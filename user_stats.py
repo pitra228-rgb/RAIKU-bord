@@ -57,6 +57,12 @@ LOG_MESSAGES = os.getenv("LOG_MESSAGES", "0") == "1"  # 1 = write messages.jsonl
 HEARTBEAT_SEC = int(os.getenv("HEARTBEAT_SEC", "10"))
 LOG_EVERY_PAGES = int(os.getenv("LOG_EVERY_PAGES", "50"))
 
+# member display names (server nick)
+FETCH_MEMBER_DISPLAY = os.getenv("FETCH_MEMBER_DISPLAY", "1") == "1"
+FALLBACK_MEMBER_FETCH = os.getenv("FALLBACK_MEMBER_FETCH", "1") == "1"
+FALLBACK_SLEEP_SEC = float(os.getenv("FALLBACK_SLEEP_SEC", "0.15"))
+FALLBACK_LOG_EVERY = int(os.getenv("FALLBACK_LOG_EVERY", "50"))
+
 logger.remove()
 logger.add(stderr, format="<white>{time:HH:mm:ss}</white> | <level>{level: <8}</level> | <white>{message}</white>")
 
@@ -113,10 +119,11 @@ def get_json(url: str, max_retries: int = 8, timeout: int = 25):
             if r.status_code == 404:
                 try:
                     j = r.json()
-                    if j.get("code") in (10003, 10007, 10008, 10013):
+                    if j.get("code") in (10007, 10013):  # Unknown Member/User
                         return None
                 except Exception:
-                    return None
+                    if "/members/" in url:
+                        return None
 
             if r.status_code >= 400:
                 last_err = f"HTTP {r.status_code}: {r.text[:200]}"
@@ -170,13 +177,15 @@ def load_checkpoint():
             cp = json.load(f)
         logger.info(f"Loaded checkpoint: users={len(cp.get('users', {}))} channels={len(cp.get('channels', {}))}")
     else:
-        cp = {"meta": {}, "channels": {}, "users": {}, "channel_names": {}}
+        cp = {"meta": {}, "channels": {}, "users": {}, "channel_names": {}, "member_display": {}}
         logger.info("No checkpoint found. Starting fresh.")
 
     cp.setdefault("meta", {})
     cp.setdefault("channels", {})
     cp.setdefault("users", {})
     cp.setdefault("channel_names", {})
+    cp.setdefault("member_display", {})  # user_id -> server nickname/display name
+
     return cp
 
 
@@ -186,7 +195,7 @@ def save_checkpoint(cp, reason: str = ""):
     with open(tmp, "w", encoding="utf-8") as f:
         json.dump(cp, f, ensure_ascii=False, indent=2)
     os.replace(tmp, CHECKPOINT_PATH)
-    logger.info(f"Checkpoint saved{(' (' + reason + ')') if reason else ''}: {CHECKPOINT_PATH}")
+    logger.info(f"Checkpoint saved{(' ('+reason+')') if reason else ''}: {CHECKPOINT_PATH}")
 
 
 def ensure_server_name(cp, guild_id: str):
@@ -208,19 +217,123 @@ def list_text_channels(guild_id: str):
     return out
 
 
+def _compute_display_name(member: dict):
+    # Prefer server nickname; then global_name; then username
+    nick = member.get("nick")
+    user = member.get("user") or {}
+    global_name = user.get("global_name")
+    username = user.get("username")
+    return nick or global_name or username
+
+
+def fetch_all_members_display(cp, guild_id: str):
+    """
+    Fetch all members using /members?limit=1000&after=...
+    NOTE: can return 403 depending on token/permissions.
+    """
+    out_display = {}
+    after = "0"
+    total = 0
+    pages = 0
+
+    while True:
+        url = f"{API_BASE}/guilds/{guild_id}/members?limit=1000&after={after}"
+        data = get_json(url)
+        if not data:
+            break
+        pages += 1
+
+        for m in data:
+            u = m.get("user") or {}
+            uid = str(u.get("id"))
+            if not uid:
+                continue
+            out_display[uid] = _compute_display_name(m)
+            total += 1
+
+        after = str((data[-1].get("user") or {}).get("id") or after)
+        if pages % 5 == 0:
+            logger.info(f"Members fetched: {total} (pages={pages})")
+        time.sleep(0.2)
+
+    cp["member_display"] = out_display
+    logger.success(f"Fetched member display names: members={len(out_display)}")
+
+
+def fetch_member_display_fallback(cp, guild_id: str, uid: str):
+    try:
+        m = get_json(f"{API_BASE}/guilds/{guild_id}/members/{uid}")
+    except NoAccessError:
+        return "no_access"
+    except Exception:
+        return "error"
+    if not m:
+        return "missing"
+    cp.setdefault("member_display", {})[uid] = _compute_display_name(m)
+    return "ok"
+
+
+def run_display_fallback_for_seen_users(cp, guild_id: str, reason: str = ""):
+    uids = list((cp.get("users") or {}).keys())
+    total = len(uids)
+    if total == 0:
+        return
+
+    processed = ok = missing = no_access = errors = 0
+    started = time.time()
+    last_log = started
+
+    logger.info(
+        f"[DISPLAY-FB] Start fallback for seen users: total={total} sleep={FALLBACK_SLEEP_SEC}s "
+        f"{('(' + reason + ')') if reason else ''}"
+    )
+
+    for uid in uids:
+        processed += 1
+        st = fetch_member_display_fallback(cp, guild_id, uid)
+        if st == "ok":
+            ok += 1
+        elif st == "missing":
+            missing += 1
+        elif st == "no_access":
+            no_access += 1
+        else:
+            errors += 1
+
+        now = time.time()
+        if processed % FALLBACK_LOG_EVERY == 0 or (now - last_log) >= HEARTBEAT_SEC:
+            elapsed = max(now - started, 1e-6)
+            speed = processed / elapsed
+            eta_s = (total - processed) / speed if speed > 0 else 0
+            logger.info(
+                f"[DISPLAY-FB] {processed}/{total} ok={ok} missing={missing} no_access={no_access} errors={errors} "
+                f"speed={speed:.2f} users/s eta={eta_s/60:.1f}m"
+            )
+            last_log = now
+
+        if FALLBACK_SLEEP_SEC > 0:
+            time.sleep(FALLBACK_SLEEP_SEC)
+
+    elapsed = max(time.time() - started, 1e-6)
+    logger.success(
+        f"[DISPLAY-FB] Done: processed={processed} ok={ok} missing={missing} no_access={no_access} errors={errors} "
+        f"avg={processed/elapsed:.2f} users/s time={elapsed/60:.1f}m"
+    )
+
+
 def ensure_user(cp, uid: str, tagname: str, pfp: str):
     users = cp["users"]
     if uid not in users:
         users[uid] = {
             "id": uid,
-            "тегнейм": tagname,
+            "tagname": tagname,
             "pfp": pfp,
             "by_channel": {},
         }
     else:
         u = users[uid]
         if tagname:
-            u["тегнейм"] = tagname
+            u["tagname"] = tagname
         if pfp:
             u["pfp"] = pfp
 
@@ -264,7 +377,6 @@ def backfill_channel(cp, channel_id: str, channel_name: str):
     def consume(messages):
         nonlocal scanned
         scanned += len(messages)
-
         for msg in messages:
             author = msg.get("author") or {}
             uid = author.get("id")
@@ -276,14 +388,8 @@ def backfill_channel(cp, channel_id: str, channel_name: str):
             pfp = build_avatar_url(author)
 
             if uid not in channel_agg:
-                channel_agg[uid] = {
-                    "tagname": tagname,
-                    "pfp": pfp,
-                    "count": 0,
-                }
-
+                channel_agg[uid] = {"tagname": tagname, "pfp": pfp, "count": 0}
             channel_agg[uid]["count"] += 1
-
             if tagname:
                 channel_agg[uid]["tagname"] = tagname
             if pfp:
@@ -311,8 +417,7 @@ def backfill_channel(cp, channel_id: str, channel_name: str):
         if now - last_beat >= HEARTBEAT_SEC:
             elapsed = max(now - started, 1e-6)
             logger.info(
-                f"[BACKFILL] #{channel_name} pages={pages} scanned={scanned} "
-                f"uniq_users={len(channel_agg)} speed={scanned/elapsed:.2f} msg/s"
+                f"[BACKFILL] #{channel_name} pages={pages} scanned={scanned} uniq_users={len(channel_agg)} speed={scanned/elapsed:.2f} msg/s"
             )
             last_beat = now
 
@@ -338,30 +443,20 @@ def backfill_channel(cp, channel_id: str, channel_name: str):
         if LOG_EVERY_PAGES and (pages % LOG_EVERY_PAGES == 0):
             elapsed = max(time.time() - started, 1e-6)
             logger.info(
-                f"[BACKFILL] #{channel_name} pages={pages} scanned={scanned} "
-                f"uniq_users={len(channel_agg)} speed={scanned/elapsed:.2f} msg/s"
+                f"[BACKFILL] #{channel_name} pages={pages} scanned={scanned} uniq_users={len(channel_agg)} speed={scanned/elapsed:.2f} msg/s"
             )
 
     commit_channel_aggregate(cp, channel_id, channel_agg)
-    cp["channels"][channel_id] = {
-        "name": channel_name,
-        "last_seen_id": str(newest_id),
-        "backfill_done": True
-    }
+    cp["channels"][channel_id] = {"name": channel_name, "last_seen_id": str(newest_id), "backfill_done": True}
 
     elapsed = max(time.time() - started, 1e-6)
     logger.success(
-        f"[BACKFILL] Done #{channel_name}: scanned={scanned} pages={pages} "
-        f"uniq_users={len(channel_agg)} avg={scanned/elapsed:.2f} msg/s"
+        f"[BACKFILL] Done #{channel_name}: scanned={scanned} pages={pages} uniq_users={len(channel_agg)} avg={scanned/elapsed:.2f} msg/s"
     )
 
 
 def incremental_channel(cp, channel_id: str, channel_name: str):
-    st = cp["channels"].get(channel_id) or {
-        "name": channel_name,
-        "last_seen_id": None,
-        "backfill_done": False
-    }
+    st = cp["channels"].get(channel_id) or {"name": channel_name, "last_seen_id": None, "backfill_done": False}
     after_id = st.get("last_seen_id")
     if not after_id:
         return 0
@@ -395,8 +490,8 @@ def incremental_channel(cp, channel_id: str, channel_name: str):
             uid = author.get("id")
             if not uid:
                 continue
-
             uid = str(uid)
+
             tagname = build_tagname(author)
             pfp = build_avatar_url(author)
 
@@ -432,6 +527,7 @@ def incremental_channel(cp, channel_id: str, channel_name: str):
 
 def export_users(cp):
     channel_name_by_id = cp.get("channel_names", {})
+    member_display = cp.get("member_display", {})
 
     out = []
     for uid, u in (cp.get("users") or {}).items():
@@ -442,15 +538,13 @@ def export_users(cp):
 
         out.append({
             "id": u.get("id"),
-            "тегнейм": u.get("тегнейм"),
+            "ник_на_сервере": member_display.get(uid) or None,
+            "тегнейм": u.get("tagname"),
             "pfp": u.get("pfp"),
             "количество_сообщений_в_разных_каналах": mc,
         })
 
-    out.sort(
-        key=lambda x: sum((x.get("количество_сообщений_в_разных_каналах") or {}).values()),
-        reverse=True
-    )
+    out.sort(key=lambda x: sum((x.get("количество_сообщений_в_разных_каналах") or {}).values()), reverse=True)
 
     with open(EXPORT_PATH, "w", encoding="utf-8") as f:
         json.dump(out, f, ensure_ascii=False, indent=2)
@@ -464,16 +558,25 @@ def main():
     cp = load_checkpoint()
     ensure_server_name(cp, GUILD_ID)
 
+    # Cache channel names
     chans = list_text_channels(GUILD_ID)
     for c in chans:
         cp["channel_names"][str(c["id"])] = c.get("name") or str(c["id"])
+
+    # Try fetch server nicknames (optional)
+    bulk_display_ok = not FETCH_MEMBER_DISPLAY
+    if FETCH_MEMBER_DISPLAY:
+        try:
+            fetch_all_members_display(cp, GUILD_ID)
+            bulk_display_ok = True
+        except Exception as e:
+            logger.warning(f"Bulk member display fetch failed: {e}")
 
     if MODE == "backfill":
         for i, c in enumerate(chans, start=1):
             cid = str(c["id"])
             cname = c.get("name") or cid
             st = cp["channels"].get(cid) or {}
-
             if st.get("backfill_done") is True or st.get("skipped_no_access") is True:
                 continue
 
@@ -482,16 +585,24 @@ def main():
             if i % 3 == 0:
                 save_checkpoint(cp, reason="during backfill")
 
+        # If bulk display fetch failed, fallback per-user (optional)
+        if FETCH_MEMBER_DISPLAY and (not bulk_display_ok) and FALLBACK_MEMBER_FETCH and cp.get("users"):
+            run_display_fallback_for_seen_users(cp, GUILD_ID, reason="bulk failed (backfill)")
+
         save_checkpoint(cp, reason="after backfill")
         export_users(cp)
         logger.success("Backfill complete.")
         return
 
+    # incremental
     total_added = 0
     for c in chans:
         cid = str(c["id"])
         cname = c.get("name") or cid
         total_added += incremental_channel(cp, cid, cname)
+
+    if FETCH_MEMBER_DISPLAY and (not bulk_display_ok) and FALLBACK_MEMBER_FETCH and cp.get("users"):
+        run_display_fallback_for_seen_users(cp, GUILD_ID, reason="bulk failed (incremental)")
 
     save_checkpoint(cp, reason="after incremental")
     export_users(cp)
