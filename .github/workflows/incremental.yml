@@ -1,0 +1,68 @@
+name: Discord incremental stats
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 16 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: discord-incremental
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then
+            pip install -r requirements.txt
+          else
+            pip install requests loguru python-dotenv
+          fi
+
+      - name: Run incremental
+        env:
+          DISCORD_TOKEN: ${{ secrets.DISCORD_TOKEN }}
+          GUILD_ID: ${{ secrets.GUILD_ID }}
+
+          MODE: incremental
+
+          CHECKPOINT_PATH: checkpoint.json
+          EXPORT_PATH: users.json
+
+          FETCH_MEMBER_DISPLAY: "1"
+
+          LOG_MESSAGES: "0"
+        run: |
+          python user_stats.py
+
+      - name: Commit updated json
+        run: |
+          set -e
+          git status --porcelain
+          if [ -n "$(git status --porcelain checkpoint.json users.json)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add checkpoint.json users.json
+            git commit -m "Update discord stats (incremental)"
+            git push
+          else
+            echo "No changes to commit."
+          fi
