@@ -5,13 +5,13 @@
     "тегнейм": "konskaya.zalupa",
     "pfp": "https://cdn.discordapp.com/avatars/908348591574253568/ddef4752fab6a58700a8ef6fb948db04.png?size=128",
     "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 6955,
+      "🏠︱english": 6956,
       "🎨︱community-content": 14,
       "🇮🇳︱indian": 20,
       "🇻🇳︱vietnamese": 1,
-      "🇷🇺︱russian": 22670,
+      "🇷🇺︱russian": 22673,
       "🇳🇬︱nigerian": 3,
-      "🇺🇦︱ukrainian": 6995,
+      "🇺🇦︱ukrainian": 7036,
       "🇵🇭︱filipino": 62,
       "🇹🇷︱turkish": 2
     }
@@ -22,10 +22,10 @@
     "тегнейм": "tulenkaaa",
     "pfp": "https://cdn.discordapp.com/avatars/577384113657610250/9d8c46bd2f6f4be0bc28b7bf71920097.png?size=128",
     "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 1930,
+      "🏠︱english": 1946,
       "🎨︱community-content": 27,
-      "🇷🇺︱russian": 16495,
-      "🇺🇦︱ukrainian": 3525
+      "🇷🇺︱russian": 16574,
+      "🇺🇦︱ukrainian": 3540
     }
   },
   {
@@ -34,14 +34,14 @@
     "тегнейм": "longnamhoa",
     "pfp": "https://cdn.discordapp.com/avatars/1089537106059210793/48d7b3d3ea4b949c4ac9f2a7ea3c626e.png?size=128",
     "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 11387,
-      "🎨︱community-content": 115,
+      "🏠︱english": 11393,
+      "🎨︱community-content": 116,
       "🇨🇳︱chinese": 1,
       "🇪🇸︱spanish": 1,
       "🇮🇳︱indian": 19,
-      "🇻🇳︱vietnamese": 9693,
+      "🇻🇳︱vietnamese": 9736,
       "🇷🇺︱russian": 18,
-      "📜︱raiku-tweets": 233,
+      "📜︱raiku-tweets": 236,
       "🇳🇬︱nigerian": 12,
       "🇺🇦︱ukrainian": 19,
       "🇮🇩︱indonesian": 9,
@@ -57,11 +57,11 @@
     "тегнейм": "ostone_1304",
     "pfp": "https://cdn.discordapp.com/avatars/1079763091606224966/4f3f5e6b65850d83e34ae8e03312a001.png?size=128",
     "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 12528,
+      "🏠︱english": 12583,
       "🎨︱community-content": 76,
       "🇮🇳︱indian": 1,
       "🇷🇺︱russian": 1,
-      "🇳🇬︱nigerian": 2237
+      "🇳🇬︱nigerian": 2242
     }
   },
   {
@@ -83,7 +83,7 @@
       "🇫🇷︱french": 46,
       "🇺🇦︱ukrainian": 46,
       "🇮🇩︱indonesian": 48,
-      "👋︱welcome": 11843,
+      "👋︱welcome": 11849,
       "🇹🇭︱thai": 37,
       "🇧🇩︱bangladeshi": 37,
       "🇵🇭︱filipino": 37,
@@ -97,10 +97,10 @@
     "тегнейм": "0xfrio",
     "pfp": "https://cdn.discordapp.com/avatars/463762867884130314/bc842684cb5f9e6450489ade9bc7f081.png?size=128",
     "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 3407,
+      "🏠︱english": 3422,
       "🇺🇦︱ukrainian": 1,
-      "🇮🇩︱indonesian": 8592,
-      "🇵🇭︱filipino": 849
+      "🇮🇩︱indonesian": 8639,
+      "🇵🇭︱filipino": 852
     }
   },
   {
@@ -109,22 +109,9 @@
     "тегнейм": "nabapu",
     "pfp": "https://cdn.discordapp.com/avatars/733167583167119372/babdf40a5ce5ea9591a20b47095ebb6a.png?size=128",
     "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 112,
+      "🏠︱english": 113,
       "🎨︱community-content": 28,
-      "🇮🇩︱indonesian": 11223
-    }
-  },
-  {
-    "id": "853187168571097119",
-    "ник_на_сервере": "Tati",
-    "тегнейм": "tatikorgi",
-    "pfp": "https://cdn.discordapp.com/avatars/853187168571097119/35b15ab6ee2136e141400eb1a64d2fa2.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 3288,
-      "🎨︱community-content": 3,
-      "🇷🇺︱russian": 21,
-      "🇺🇦︱ukrainian": 5473,
-      "🇮🇩︱indonesian": 31
+      "🇮🇩︱indonesian": 11299
     }
   },
   {
@@ -133,9 +120,22 @@
     "тегнейм": "marnihihaho",
     "pfp": "https://cdn.discordapp.com/avatars/1189113718202712104/33b8275c51cbd54ec3068f63f3e28be3.png?size=128",
     "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 425,
+      "🏠︱english": 428,
       "🎨︱community-content": 16,
-      "🇺🇦︱ukrainian": 8337
+      "🇺🇦︱ukrainian": 8477
+    }
+  },
+  {
+    "id": "853187168571097119",
+    "ник_на_сервере": "Tati",
+    "тегнейм": "tatikorgi",
+    "pfp": "https://cdn.discordapp.com/avatars/853187168571097119/35b15ab6ee2136e141400eb1a64d2fa2.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🏠︱english": 3318,
+      "🎨︱community-content": 3,
+      "🇷🇺︱russian": 21,
+      "🇺🇦︱ukrainian": 5520,
+      "🇮🇩︱indonesian": 31
     }
   },
   {
@@ -144,9 +144,9 @@
     "тегнейм": "iamsickboy_",
     "pfp": "https://cdn.discordapp.com/avatars/648875411815530506/a6d5a94175a8bad4acf8e33bdb536297.png?size=128",
     "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 5374,
-      "🎨︱community-content": 18,
-      "🇻🇳︱vietnamese": 2876,
+      "🏠︱english": 5376,
+      "🎨︱community-content": 19,
+      "🇻🇳︱vietnamese": 2932,
       "🇯🇵︱japanese": 4
     }
   },
@@ -156,10 +156,39 @@
     "тегнейм": "mikemymind_",
     "pfp": "https://cdn.discordapp.com/avatars/1071176875042406400/adc938eb51be964e872a2bf701d8b63b.png?size=128",
     "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 487,
+      "🏠︱english": 488,
       "🎨︱community-content": 28,
-      "🇷🇺︱russian": 5848,
+      "🇷🇺︱russian": 5886,
       "🇺🇦︱ukrainian": 1
+    }
+  },
+  {
+    "id": "606566270338596867",
+    "ник_на_сервере": "realsir ./",
+    "тегнейм": "realsir",
+    "pfp": "https://cdn.discordapp.com/avatars/606566270338596867/408a16ba87e2a0f1cc66b19cca52079e.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🏠︱english": 562,
+      "🎨︱community-content": 53,
+      "🇷🇺︱russian": 5204
+    }
+  },
+  {
+    "id": "913080370751213599",
+    "ник_на_сервере": "ADoins",
+    "тегнейм": "adoinns",
+    "pfp": "https://cdn.discordapp.com/avatars/913080370751213599/c1fa8642b04f75f39173ff0a7c560beb.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🏠︱english": 988,
+      "🎨︱community-content": 16,
+      "🇨🇳︱chinese": 3,
+      "🇮🇳︱indian": 3,
+      "🇻🇳︱vietnamese": 4764,
+      "🇷🇺︱russian": 10,
+      "🇳🇬︱nigerian": 7,
+      "🇮🇩︱indonesian": 6,
+      "🇹🇭︱thai": 4,
+      "🇹🇷︱turkish": 3
     }
   },
   {
@@ -168,8 +197,8 @@
     "тегнейм": "_gibby",
     "pfp": "https://cdn.discordapp.com/avatars/1183722018298937480/d1c89c72806b64e8c0ef1dae0b7fd450.png?size=128",
     "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 5105,
-      "🎨︱community-content": 132,
+      "🏠︱english": 5114,
+      "🎨︱community-content": 133,
       "🇨🇳︱chinese": 3,
       "🇻🇳︱vietnamese": 15,
       "🇳🇬︱nigerian": 532
@@ -187,48 +216,19 @@
     }
   },
   {
-    "id": "606566270338596867",
-    "ник_на_сервере": "realsir ./",
-    "тегнейм": "realsir",
-    "pfp": "https://cdn.discordapp.com/avatars/606566270338596867/408a16ba87e2a0f1cc66b19cca52079e.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 553,
-      "🎨︱community-content": 52,
-      "🇷🇺︱russian": 5152
-    }
-  },
-  {
-    "id": "913080370751213599",
-    "ник_на_сервере": "ADoins",
-    "тегнейм": "adoinns",
-    "pfp": "https://cdn.discordapp.com/avatars/913080370751213599/c1fa8642b04f75f39173ff0a7c560beb.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 988,
-      "🎨︱community-content": 16,
-      "🇨🇳︱chinese": 3,
-      "🇮🇳︱indian": 3,
-      "🇻🇳︱vietnamese": 4715,
-      "🇷🇺︱russian": 10,
-      "🇳🇬︱nigerian": 7,
-      "🇮🇩︱indonesian": 6,
-      "🇹🇭︱thai": 4,
-      "🇹🇷︱turkish": 3
-    }
-  },
-  {
     "id": "1288890403864576062",
     "ник_на_сервере": "Ahsok",
     "тегнейм": "mrahsok",
     "pfp": "https://cdn.discordapp.com/avatars/1288890403864576062/f98b8ce97c35931667d6efb493d3e8b4.png?size=128",
     "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 2988,
+      "🏠︱english": 2989,
       "🎨︱community-content": 4,
-      "🇮🇳︱indian": 1098,
+      "🇮🇳︱indian": 1106,
       "🇳🇬︱nigerian": 3,
       "🇺🇦︱ukrainian": 1,
       "🇮🇩︱indonesian": 148,
       "🇧🇩︱bangladeshi": 17,
-      "🇵🇭︱filipino": 899
+      "🇵🇭︱filipino": 905
     }
   },
   {
@@ -237,10 +237,33 @@
     "тегнейм": "wazenhagen",
     "pfp": "https://cdn.discordapp.com/avatars/1190251449179963476/04de701b25774c61b4495dc08fbc0a05.png?size=128",
     "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 29,
-      "🎨︱community-content": 37,
-      "🇷🇺︱russian": 53,
-      "🇺🇦︱ukrainian": 4520
+      "🏠︱english": 30,
+      "🎨︱community-content": 39,
+      "🇷🇺︱russian": 55,
+      "🇺🇦︱ukrainian": 4584
+    }
+  },
+  {
+    "id": "1303761835929108621",
+    "ник_на_сервере": "𝗚𝗘𝗡𝗚𝗔𝗥",
+    "тегнейм": "gengar.shadow",
+    "pfp": "https://cdn.discordapp.com/avatars/1303761835929108621/a_7bfdbf944418304c4f736bcf0dbca777.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🏠︱english": 47,
+      "🎨︱community-content": 9,
+      "🇺🇦︱ukrainian": 4390,
+      "🇷🇺︱russian": 4
+    }
+  },
+  {
+    "id": "1233029512720023584",
+    "ник_на_сервере": "Momo",
+    "тегнейм": "vanca_6116",
+    "pfp": "https://cdn.discordapp.com/avatars/1233029512720023584/47cf603d317305a4e0e1434c2d3289ef.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🏠︱english": 1231,
+      "🎨︱community-content": 9,
+      "🇻🇳︱vietnamese": 3105
     }
   },
   {
@@ -252,30 +275,18 @@
       "🏠︱english": 1100,
       "🎨︱community-content": 8,
       "🇻🇳︱vietnamese": 64,
-      "🇮🇩︱indonesian": 3166
+      "🇮🇩︱indonesian": 3167
     }
   },
   {
-    "id": "1303761835929108621",
-    "ник_на_сервере": "𝗚𝗘𝗡𝗚𝗔𝗥",
-    "тегнейм": "gengar.shadow",
-    "pfp": "https://cdn.discordapp.com/avatars/1303761835929108621/a_7bfdbf944418304c4f736bcf0dbca777.png?size=128",
+    "id": "903564310444380201",
+    "ник_на_сервере": "Choco thins 🍫",
+    "тегнейм": "thins",
+    "pfp": "https://cdn.discordapp.com/avatars/903564310444380201/cdadc46d4d87e63490b287c023d2f65f.png?size=128",
     "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 47,
-      "🎨︱community-content": 9,
-      "🇺🇦︱ukrainian": 4242,
-      "🇷🇺︱russian": 4
-    }
-  },
-  {
-    "id": "1233029512720023584",
-    "ник_на_сервере": "Momo",
-    "тегнейм": "vanca_6116",
-    "pfp": "https://cdn.discordapp.com/avatars/1233029512720023584/47cf603d317305a4e0e1434c2d3289ef.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 1225,
-      "🎨︱community-content": 9,
-      "🇻🇳︱vietnamese": 2884
+      "🏠︱english": 5,
+      "🎨︱community-content": 2,
+      "🇮🇩︱indonesian": 4177
     }
   },
   {
@@ -295,27 +306,16 @@
     "тегнейм": "sundoodles",
     "pfp": "https://cdn.discordapp.com/avatars/728102905198018621/b80ed2713415f219571f57975825ba1a.png?size=128",
     "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 3203,
+      "🏠︱english": 3238,
       "🎨︱community-content": 4,
       "🇮🇳︱indian": 1,
       "🇻🇳︱vietnamese": 28,
       "🇯🇵︱japanese": 1,
       "🇷🇺︱russian": 32,
       "🇳🇬︱nigerian": 117,
-      "🇺🇦︱ukrainian": 265,
+      "🇺🇦︱ukrainian": 276,
       "🇮🇩︱indonesian": 44,
-      "🇵🇭︱filipino": 309
-    }
-  },
-  {
-    "id": "903564310444380201",
-    "ник_на_сервере": "Choco thins 🍫",
-    "тегнейм": "thins",
-    "pfp": "https://cdn.discordapp.com/avatars/903564310444380201/cdadc46d4d87e63490b287c023d2f65f.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 5,
-      "🎨︱community-content": 2,
-      "🇮🇩︱indonesian": 3976
+      "🇵🇭︱filipino": 315
     }
   },
   {
@@ -342,18 +342,6 @@
     }
   },
   {
-    "id": "659883829942550559",
-    "ник_на_сервере": "Saigon",
-    "тегнейм": "saigon1984",
-    "pfp": "https://cdn.discordapp.com/avatars/659883829942550559/75b58dca15f7ce4f5ba9e1b7672306c8.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 219,
-      "🎨︱community-content": 10,
-      "🇷🇺︱russian": 1076,
-      "🇺🇦︱ukrainian": 2332
-    }
-  },
-  {
     "id": "1258346145881788427",
     "ник_на_сервере": "nerozkazuy",
     "тегнейм": "nerozkazuy",
@@ -362,7 +350,19 @@
       "🏠︱english": 199,
       "🎨︱community-content": 11,
       "🇷🇺︱russian": 69,
-      "🇺🇦︱ukrainian": 3333
+      "🇺🇦︱ukrainian": 3370
+    }
+  },
+  {
+    "id": "659883829942550559",
+    "ник_на_сервере": "Saigon",
+    "тегнейм": "saigon1984",
+    "pfp": "https://cdn.discordapp.com/avatars/659883829942550559/75b58dca15f7ce4f5ba9e1b7672306c8.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🏠︱english": 219,
+      "🎨︱community-content": 10,
+      "🇷🇺︱russian": 1079,
+      "🇺🇦︱ukrainian": 2337
     }
   },
   {
@@ -373,7 +373,7 @@
     "количество_сообщений_в_разных_каналах": {
       "🏠︱english": 71,
       "🎨︱community-content": 15,
-      "🇮🇩︱indonesian": 3503
+      "🇮🇩︱indonesian": 3551
     }
   },
   {
@@ -445,7 +445,7 @@
     "количество_сообщений_в_разных_каналах": {
       "🏠︱english": 239,
       "🎨︱community-content": 22,
-      "🇷🇺︱russian": 2812
+      "🇷🇺︱russian": 2813
     }
   },
   {
@@ -456,7 +456,7 @@
     "количество_сообщений_в_разных_каналах": {
       "🏠︱english": 35,
       "🎨︱community-content": 24,
-      "🇷🇺︱russian": 2854,
+      "🇷🇺︱russian": 2856,
       "🇺🇦︱ukrainian": 107
     }
   },
@@ -466,8 +466,19 @@
     "тегнейм": "SlopGuard#0903",
     "pfp": "https://cdn.discordapp.com/avatars/1452686743122739272/0927ef27f9b2561c25bff23b03cdfddf.png?size=128",
     "количество_сообщений_в_разных_каналах": {
-      "🎨︱community-content": 2808,
-      "📜︱raiku-tweets": 150
+      "🎨︱community-content": 2831,
+      "📜︱raiku-tweets": 152
+    }
+  },
+  {
+    "id": "1201565644521484341",
+    "ник_на_сервере": "BadCrazyWitcher",
+    "тегнейм": "badcrazywitcher",
+    "pfp": "https://cdn.discordapp.com/avatars/1201565644521484341/54a868c837ea442831011c2028ad0b41.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🏠︱english": 8,
+      "🇷🇺︱russian": 63,
+      "🇺🇦︱ukrainian": 2903
     }
   },
   {
@@ -478,19 +489,8 @@
     "количество_сообщений_в_разных_каналах": {
       "🏠︱english": 119,
       "🎨︱community-content": 19,
-      "🇻🇳︱vietnamese": 2807,
+      "🇻🇳︱vietnamese": 2816,
       "🇮🇩︱indonesian": 2
-    }
-  },
-  {
-    "id": "1201565644521484341",
-    "ник_на_сервере": "BadCrazyWitcher",
-    "тегнейм": "badcrazywitcher",
-    "pfp": "https://cdn.discordapp.com/avatars/1201565644521484341/54a868c837ea442831011c2028ad0b41.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 8,
-      "🇷🇺︱russian": 59,
-      "🇺🇦︱ukrainian": 2798
     }
   },
   {
@@ -501,7 +501,7 @@
     "количество_сообщений_в_разных_каналах": {
       "🏠︱english": 317,
       "🎨︱community-content": 16,
-      "🇻🇳︱vietnamese": 2527
+      "🇻🇳︱vietnamese": 2540
     }
   },
   {
@@ -511,7 +511,7 @@
     "pfp": "https://cdn.discordapp.com/avatars/487829223298433034/16e79e53f7026959378ea98b70000b4c.png?size=128",
     "количество_сообщений_в_разных_каналах": {
       "🏠︱english": 82,
-      "🇻🇳︱vietnamese": 2757,
+      "🇻🇳︱vietnamese": 2760,
       "🇮🇩︱indonesian": 1
     }
   },
@@ -521,9 +521,20 @@
     "тегнейм": "rifkylana",
     "pfp": "https://cdn.discordapp.com/avatars/378512642370699264/950540d527d57455e95bfdd84bd6f644.png?size=128",
     "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 2385,
+      "🏠︱english": 2400,
       "🎨︱community-content": 49,
-      "🇮🇩︱indonesian": 376
+      "🇮🇩︱indonesian": 383
+    }
+  },
+  {
+    "id": "760165014543007766",
+    "ник_на_сервере": "Miley",
+    "тегнейм": "miley_nguyen",
+    "pfp": "https://cdn.discordapp.com/avatars/760165014543007766/49b6b5a4cd8a52e7da9be6dd02a957e6.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🏠︱english": 70,
+      "🎨︱community-content": 6,
+      "🇻🇳︱vietnamese": 2670
     }
   },
   {
@@ -538,17 +549,6 @@
     }
   },
   {
-    "id": "760165014543007766",
-    "ник_на_сервере": "Miley",
-    "тегнейм": "miley_nguyen",
-    "pfp": "https://cdn.discordapp.com/avatars/760165014543007766/49b6b5a4cd8a52e7da9be6dd02a957e6.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 70,
-      "🎨︱community-content": 6,
-      "🇻🇳︱vietnamese": 2639
-    }
-  },
-  {
     "id": "1177140940796866561",
     "ник_на_сервере": "Sae Gowon",
     "тегнейм": "saegowon",
@@ -560,14 +560,25 @@
     }
   },
   {
+    "id": "998629206277754912",
+    "ник_на_сервере": "Fern",
+    "тегнейм": "kyyy7777",
+    "pfp": "https://cdn.discordapp.com/avatars/998629206277754912/83fe4ef4e16b688ba31f61145da008c2.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🏠︱english": 58,
+      "🎨︱community-content": 2,
+      "🇮🇩︱indonesian": 2634
+    }
+  },
+  {
     "id": "836477001694445578",
     "ник_на_сервере": "kersa",
     "тегнейм": "restukersana",
     "pfp": "https://cdn.discordapp.com/avatars/836477001694445578/3145ca8793658996350121c82d38e5b1.png?size=128",
     "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 551,
-      "🎨︱community-content": 28,
-      "🇮🇩︱indonesian": 2083
+      "🏠︱english": 556,
+      "🎨︱community-content": 29,
+      "🇮🇩︱indonesian": 2092
     }
   },
   {
@@ -578,18 +589,7 @@
     "количество_сообщений_в_разных_каналах": {
       "🏠︱english": 377,
       "🎨︱community-content": 3,
-      "🇮🇩︱indonesian": 2281
-    }
-  },
-  {
-    "id": "998629206277754912",
-    "ник_на_сервере": "Fern",
-    "тегнейм": "kyyy7777",
-    "pfp": "https://cdn.discordapp.com/avatars/998629206277754912/83fe4ef4e16b688ba31f61145da008c2.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 58,
-      "🎨︱community-content": 2,
-      "🇮🇩︱indonesian": 2546
+      "🇮🇩︱indonesian": 2285
     }
   },
   {
@@ -607,10 +607,10 @@
     "тегнейм": "mikailadelacoix",
     "pfp": "https://cdn.discordapp.com/avatars/1312186553694556192/e7a7eafc3bb2846fe27eee2b3e0f13f6.png?size=128",
     "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 1522,
+      "🏠︱english": 1523,
       "🎨︱community-content": 38,
       "🇯🇵︱japanese": 38,
-      "🇳🇬︱nigerian": 956
+      "🇳🇬︱nigerian": 957
     }
   },
   {
@@ -630,9 +630,9 @@
     "тегнейм": "bikoy",
     "pfp": "https://cdn.discordapp.com/avatars/579537759400886273/7ecc1459f77669f62f1ca61dd6710f5a.png?size=128",
     "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 1057,
+      "🏠︱english": 1058,
       "🎨︱community-content": 39,
-      "🇷🇺︱russian": 1423
+      "🇷🇺︱russian": 1427
     }
   },
   {
@@ -681,7 +681,7 @@
       "🏠︱english": 326,
       "🎨︱community-content": 22,
       "🇷🇺︱russian": 53,
-      "🇺🇦︱ukrainian": 1944
+      "🇺🇦︱ukrainian": 1947
     }
   },
   {
@@ -703,7 +703,7 @@
     "количество_сообщений_в_разных_каналах": {
       "🏠︱english": 360,
       "🎨︱community-content": 4,
-      "🇻🇳︱vietnamese": 1891
+      "🇻🇳︱vietnamese": 1906
     }
   },
   {
@@ -803,21 +803,9 @@
     "тегнейм": "sinne9218",
     "pfp": "https://cdn.discordapp.com/avatars/743131059054706788/4473483b3c1b9dadaca9fb7315c6aebb.png?size=128",
     "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 111,
+      "🏠︱english": 113,
       "🎨︱community-content": 8,
-      "🇻🇳︱vietnamese": 1836
-    }
-  },
-  {
-    "id": "840513243391066123",
-    "ник_на_сервере": "DaveNguyen",
-    "тегнейм": "davenguyencrp",
-    "pfp": "https://cdn.discordapp.com/avatars/840513243391066123/15709c9bd7a071dd9b0790731356ab3e.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 44,
-      "🎨︱community-content": 3,
-      "🇻🇳︱vietnamese": 1812,
-      "🇯🇵︱japanese": 75
+      "🇻🇳︱vietnamese": 1861
     }
   },
   {
@@ -828,7 +816,30 @@
     "количество_сообщений_в_разных_каналах": {
       "🏠︱english": 40,
       "🎨︱community-content": 5,
-      "🇮🇩︱indonesian": 1884
+      "🇮🇩︱indonesian": 1935
+    }
+  },
+  {
+    "id": "922279901304852521",
+    "ник_на_сервере": "Fhermontiel",
+    "тегнейм": "fhermontiel",
+    "pfp": "https://cdn.discordapp.com/avatars/922279901304852521/0f715ddd04937768e9bc7f7c4149594e.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🏠︱english": 1525,
+      "🎨︱community-content": 1,
+      "🇪🇸︱spanish": 423
+    }
+  },
+  {
+    "id": "840513243391066123",
+    "ник_на_сервере": "DaveNguyen",
+    "тегнейм": "davenguyencrp",
+    "pfp": "https://cdn.discordapp.com/avatars/840513243391066123/15709c9bd7a071dd9b0790731356ab3e.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🏠︱english": 44,
+      "🎨︱community-content": 3,
+      "🇻🇳︱vietnamese": 1814,
+      "🇯🇵︱japanese": 75
     }
   },
   {
@@ -839,7 +850,7 @@
     "количество_сообщений_в_разных_каналах": {
       "🏠︱english": 118,
       "🎨︱community-content": 6,
-      "🇮🇩︱indonesian": 1804
+      "🇮🇩︱indonesian": 1809
     }
   },
   {
@@ -853,25 +864,25 @@
     }
   },
   {
-    "id": "922279901304852521",
-    "ник_на_сервере": "Fhermontiel",
-    "тегнейм": "fhermontiel",
-    "pfp": "https://cdn.discordapp.com/avatars/922279901304852521/0f715ddd04937768e9bc7f7c4149594e.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 1483,
-      "🎨︱community-content": 1,
-      "🇪🇸︱spanish": 421
-    }
-  },
-  {
     "id": "957258091055964210",
     "ник_на_сервере": "2 0 0 2",
     "тегнейм": "20029068",
     "pfp": "https://cdn.discordapp.com/avatars/957258091055964210/7eefd321c1797a1e34956512146fd8bc.png?size=128",
     "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 1634,
+      "🏠︱english": 1646,
       "🎨︱community-content": 2,
-      "🇻🇳︱vietnamese": 258
+      "🇻🇳︱vietnamese": 261
+    }
+  },
+  {
+    "id": "924858116640743435",
+    "ник_на_сервере": "Randy (locked in)",
+    "тегнейм": "live1270",
+    "pfp": "https://cdn.discordapp.com/avatars/924858116640743435/c046ee67a42dfd1f6ebb383383be2d15.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🏠︱english": 31,
+      "🎨︱community-content": 43,
+      "🇻🇳︱vietnamese": 1804
     }
   },
   {
@@ -887,17 +898,6 @@
     }
   },
   {
-    "id": "924858116640743435",
-    "ник_на_сервере": "Randy (locked in)",
-    "тегнейм": "live1270",
-    "pfp": "https://cdn.discordapp.com/avatars/924858116640743435/c046ee67a42dfd1f6ebb383383be2d15.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 31,
-      "🎨︱community-content": 43,
-      "🇻🇳︱vietnamese": 1801
-    }
-  },
-  {
     "id": "1100061023941165147",
     "ник_на_сервере": "tamiON🔥",
     "тегнейм": "tamara8448",
@@ -905,7 +905,7 @@
     "количество_сообщений_в_разных_каналах": {
       "🏠︱english": 38,
       "🎨︱community-content": 16,
-      "🇷🇺︱russian": 1819
+      "🇷🇺︱russian": 1821
     }
   },
   {
@@ -969,8 +969,8 @@
     "тегнейм": "wendydago",
     "pfp": "https://cdn.discordapp.com/avatars/905820605281091644/3475b588bccf07e94a63f16cf4857f9c.png?size=128",
     "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 163,
-      "🇮🇩︱indonesian": 1607,
+      "🏠︱english": 167,
+      "🇮🇩︱indonesian": 1638,
       "🎨︱community-content": 2
     }
   },
@@ -985,14 +985,15 @@
     }
   },
   {
-    "id": "596357137240817664",
-    "ник_на_сервере": "pusel",
-    "тегнейм": "puselol",
-    "pfp": "https://cdn.discordapp.com/avatars/596357137240817664/526ca8c8fc0929e9592fa10e3babae1c.png?size=128",
+    "id": "278900643345858560",
+    "ник_на_сервере": "yanok",
+    "тегнейм": "exchange.",
+    "pfp": "https://cdn.discordapp.com/avatars/278900643345858560/94d4ecaeb81f80f740700290d635a8bd.png?size=128",
     "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 17,
-      "🎨︱community-content": 12,
-      "🇷🇺︱russian": 1677
+      "🏠︱english": 253,
+      "🎨︱community-content": 42,
+      "🇷🇺︱russian": 734,
+      "🇺🇦︱ukrainian": 715
     }
   },
   {
@@ -1002,8 +1003,19 @@
     "pfp": "https://cdn.discordapp.com/avatars/294825726794792960/4f2b4555f720aa8fd5d4cee975da7826.png?size=128",
     "количество_сообщений_в_разных_каналах": {
       "🏠︱english": 234,
-      "🎨︱community-content": 40,
-      "🇮🇩︱indonesian": 1429
+      "🎨︱community-content": 41,
+      "🇮🇩︱indonesian": 1444
+    }
+  },
+  {
+    "id": "596357137240817664",
+    "ник_на_сервере": "pusel",
+    "тегнейм": "puselol",
+    "pfp": "https://cdn.discordapp.com/avatars/596357137240817664/526ca8c8fc0929e9592fa10e3babae1c.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🏠︱english": 17,
+      "🎨︱community-content": 12,
+      "🇷🇺︱russian": 1677
     }
   },
   {
@@ -1018,15 +1030,25 @@
     }
   },
   {
-    "id": "278900643345858560",
-    "ник_на_сервере": "yanok",
-    "тегнейм": "exchange.",
-    "pfp": "https://cdn.discordapp.com/avatars/278900643345858560/94d4ecaeb81f80f740700290d635a8bd.png?size=128",
+    "id": "1154400110541815830",
+    "ник_на_сервере": "Quang",
+    "тегнейм": "quang250802",
+    "pfp": "https://cdn.discordapp.com/avatars/1154400110541815830/3033fbbe9ab71d6d8bdf561f34e8799a.png?size=128",
     "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 242,
-      "🎨︱community-content": 41,
-      "🇷🇺︱russian": 705,
-      "🇺🇦︱ukrainian": 703
+      "🏠︱english": 496,
+      "🎨︱community-content": 19,
+      "🇻🇳︱vietnamese": 1177
+    }
+  },
+  {
+    "id": "1067842374555934730",
+    "ник_на_сервере": "Evaneskate",
+    "тегнейм": "evaneskate",
+    "pfp": "https://cdn.discordapp.com/avatars/1067842374555934730/a412ae511a24ddeed3474d4b78a4f244.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🏠︱english": 132,
+      "🎨︱community-content": 24,
+      "🇺🇦︱ukrainian": 1491
     }
   },
   {
@@ -1044,11 +1066,11 @@
     "id": "557133892520378369",
     "ник_на_сервере": "Bekbek",
     "тегнейм": "litch233",
-    "pfp": "https://cdn.discordapp.com/avatars/557133892520378369/bb5b976ba50360480996324452c7b6e1.png?size=128",
+    "pfp": "https://cdn.discordapp.com/avatars/557133892520378369/38f24da629aec3ba5d1e7e60bd639b4f.png?size=128",
     "количество_сообщений_в_разных_каналах": {
       "🏠︱english": 682,
       "🎨︱community-content": 22,
-      "🇮🇩︱indonesian": 935
+      "🇮🇩︱indonesian": 936
     }
   },
   {
@@ -1059,29 +1081,18 @@
     "количество_сообщений_в_разных_каналах": {
       "🏠︱english": 521,
       "🎨︱community-content": 7,
-      "🇮🇩︱indonesian": 1098
+      "🇮🇩︱indonesian": 1099
     }
   },
   {
-    "id": "1067842374555934730",
-    "ник_на_сервере": "Evaneskate",
-    "тегнейм": "evaneskate",
-    "pfp": "https://cdn.discordapp.com/avatars/1067842374555934730/a412ae511a24ddeed3474d4b78a4f244.png?size=128",
+    "id": "1335561289078014024",
+    "ник_на_сервере": "Pinky",
+    "тегнейм": "0xpinkrabbit",
+    "pfp": "https://cdn.discordapp.com/avatars/1335561289078014024/b4a95b0270196047f851a4f7a39c7267.png?size=128",
     "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 132,
-      "🎨︱community-content": 24,
-      "🇺🇦︱ukrainian": 1469
-    }
-  },
-  {
-    "id": "1154400110541815830",
-    "ник_на_сервере": "Quang",
-    "тегнейм": "quang250802",
-    "pfp": "https://cdn.discordapp.com/avatars/1154400110541815830/3033fbbe9ab71d6d8bdf561f34e8799a.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 493,
-      "🎨︱community-content": 19,
-      "🇻🇳︱vietnamese": 1100
+      "🏠︱english": 84,
+      "🎨︱community-content": 9,
+      "🇮🇩︱indonesian": 1520
     }
   },
   {
@@ -1092,7 +1103,7 @@
     "количество_сообщений_в_разных_каналах": {
       "🏠︱english": 183,
       "🎨︱community-content": 5,
-      "🇮🇩︱indonesian": 1389
+      "🇮🇩︱indonesian": 1390
     }
   },
   {
@@ -1104,17 +1115,6 @@
       "🏠︱english": 1038,
       "🎨︱community-content": 14,
       "🇮🇳︱indian": 508
-    }
-  },
-  {
-    "id": "1335561289078014024",
-    "ник_на_сервере": "Pinky",
-    "тегнейм": "0xpinkrabbit",
-    "pfp": "https://cdn.discordapp.com/avatars/1335561289078014024/b4a95b0270196047f851a4f7a39c7267.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 84,
-      "🎨︱community-content": 9,
-      "🇮🇩︱indonesian": 1464
     }
   },
   {
@@ -1136,7 +1136,7 @@
     "количество_сообщений_в_разных_каналах": {
       "🏠︱english": 89,
       "🎨︱community-content": 26,
-      "🇷🇺︱russian": 1370,
+      "🇷🇺︱russian": 1374,
       "🇺🇦︱ukrainian": 36
     }
   },
@@ -1152,6 +1152,17 @@
     }
   },
   {
+    "id": "827086771060867103",
+    "ник_на_сервере": "Luzzy",
+    "тегнейм": "luzzy97",
+    "pfp": "https://cdn.discordapp.com/avatars/827086771060867103/2c4f7978e19c1ed52dd60cde8b4a785d.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🏠︱english": 148,
+      "🎨︱community-content": 6,
+      "🇮🇩︱indonesian": 1326
+    }
+  },
+  {
     "id": "978203636209446942",
     "ник_на_сервере": "Swapnil",
     "тегнейм": "swapnil2577",
@@ -1160,17 +1171,6 @@
       "🏠︱english": 1418,
       "🎨︱community-content": 12,
       "🇮🇳︱indian": 46
-    }
-  },
-  {
-    "id": "827086771060867103",
-    "ник_на_сервере": "Luzzy",
-    "тегнейм": "luzzy97",
-    "pfp": "https://cdn.discordapp.com/avatars/827086771060867103/2c4f7978e19c1ed52dd60cde8b4a785d.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 148,
-      "🎨︱community-content": 6,
-      "🇮🇩︱indonesian": 1318
     }
   },
   {
@@ -1186,6 +1186,17 @@
     }
   },
   {
+    "id": "1140279213430153216",
+    "ник_на_сервере": "RANA",
+    "тегнейм": "leaderx_btc",
+    "pfp": "https://cdn.discordapp.com/avatars/1140279213430153216/dffac58bf1c319c076d8bf15092c5bf2.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🏠︱english": 1018,
+      "🎨︱community-content": 10,
+      "🇮🇳︱indian": 418
+    }
+  },
+  {
     "id": "883540911441739836",
     "ник_на_сервере": "Hoverik",
     "тегнейм": "hoverik",
@@ -1193,17 +1204,6 @@
     "количество_сообщений_в_разных_каналах": {
       "🏠︱english": 15,
       "🇷🇺︱russian": 1429
-    }
-  },
-  {
-    "id": "1140279213430153216",
-    "ник_на_сервере": "RANA",
-    "тегнейм": "leaderx_btc",
-    "pfp": "https://cdn.discordapp.com/avatars/1140279213430153216/dffac58bf1c319c076d8bf15092c5bf2.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 1015,
-      "🎨︱community-content": 10,
-      "🇮🇳︱indian": 418
     }
   },
   {
@@ -1218,6 +1218,38 @@
     }
   },
   {
+    "id": "875985864113684480",
+    "ник_на_сервере": "Henry",
+    "тегнейм": "henry011219",
+    "pfp": "https://cdn.discordapp.com/avatars/875985864113684480/9860b59463a836fb54283bb9414a6123.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🏠︱english": 63,
+      "🎨︱community-content": 6,
+      "🇻🇳︱vietnamese": 1354
+    }
+  },
+  {
+    "id": "1052164106150490183",
+    "ник_на_сервере": "Le33m",
+    "тегнейм": "le33m",
+    "pfp": "https://cdn.discordapp.com/avatars/1052164106150490183/90150db79fc51720e52e81479e5ae526.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🏠︱english": 125,
+      "🎨︱community-content": 26,
+      "🇻🇳︱vietnamese": 1270
+    }
+  },
+  {
+    "id": "999359243700412437",
+    "ник_на_сервере": "LEGENDARY KING👑 VALZE",
+    "тегнейм": "valze7349",
+    "pfp": "https://cdn.discordapp.com/avatars/999359243700412437/0bf5218b13f461aad16c48a6afe3b204.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🏠︱english": 1403,
+      "🎨︱community-content": 17
+    }
+  },
+  {
     "id": "399176219255635969",
     "ник_на_сервере": "blonerd",
     "тегнейм": "blonerd",
@@ -1229,24 +1261,14 @@
     }
   },
   {
-    "id": "999359243700412437",
-    "ник_на_сервере": "LEGENDARY KING👑 VALZE",
-    "тегнейм": "valze7349",
-    "pfp": "https://cdn.discordapp.com/avatars/999359243700412437/0bf5218b13f461aad16c48a6afe3b204.png?size=128",
+    "id": "1209902562468298805",
+    "ник_на_сервере": "Mạnh",
+    "тегнейм": "manhlouiss",
+    "pfp": "https://cdn.discordapp.com/avatars/1209902562468298805/f3f72ea3f401fd28a97a939920bdc00a.png?size=128",
     "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 1398,
-      "🎨︱community-content": 17
-    }
-  },
-  {
-    "id": "1052164106150490183",
-    "ник_на_сервере": "Le33m",
-    "тегнейм": "le33m",
-    "pfp": "https://cdn.discordapp.com/avatars/1052164106150490183/90150db79fc51720e52e81479e5ae526.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 125,
-      "🎨︱community-content": 26,
-      "🇻🇳︱vietnamese": 1260
+      "🏠︱english": 155,
+      "🎨︱community-content": 5,
+      "🇻🇳︱vietnamese": 1243
     }
   },
   {
@@ -1269,28 +1291,6 @@
       "🏠︱english": 844,
       "🇻🇳︱vietnamese": 1,
       "🇮🇩︱indonesian": 550
-    }
-  },
-  {
-    "id": "1209902562468298805",
-    "ник_на_сервере": "Mạnh",
-    "тегнейм": "manhlouiss",
-    "pfp": "https://cdn.discordapp.com/avatars/1209902562468298805/f3f72ea3f401fd28a97a939920bdc00a.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 146,
-      "🎨︱community-content": 5,
-      "🇻🇳︱vietnamese": 1243
-    }
-  },
-  {
-    "id": "875985864113684480",
-    "ник_на_сервере": "Henry",
-    "тегнейм": "henry011219",
-    "pfp": "https://cdn.discordapp.com/avatars/875985864113684480/9860b59463a836fb54283bb9414a6123.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 63,
-      "🎨︱community-content": 6,
-      "🇻🇳︱vietnamese": 1314
     }
   },
   {
@@ -1335,6 +1335,16 @@
       "🏠︱english": 912,
       "🎨︱community-content": 8,
       "🇳🇬︱nigerian": 391
+    }
+  },
+  {
+    "id": "947745999240171550",
+    "ник_на_сервере": "0𝖝𝖉𝖍𝖆𝖗",
+    "тегнейм": "adityadharma",
+    "pfp": "https://cdn.discordapp.com/avatars/947745999240171550/febe9a3f6d507327c44c9248568acce1.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🏠︱english": 10,
+      "🇮🇩︱indonesian": 1285
     }
   },
   {
@@ -1399,7 +1409,7 @@
     "количество_сообщений_в_разных_каналах": {
       "🏠︱english": 221,
       "🎨︱community-content": 32,
-      "🇷🇺︱russian": 990,
+      "🇷🇺︱russian": 991,
       "🇺🇦︱ukrainian": 3
     }
   },
@@ -1415,16 +1425,6 @@
     }
   },
   {
-    "id": "947745999240171550",
-    "ник_на_сервере": "0𝖝𝖉𝖍𝖆𝖗",
-    "тегнейм": "adityadharma",
-    "pfp": "https://cdn.discordapp.com/avatars/947745999240171550/6d1b75658be2abbe6f648ee60834fcd0.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 10,
-      "🇮🇩︱indonesian": 1204
-    }
-  },
-  {
     "id": "908225808303263745",
     "ник_на_сервере": "DocD",
     "тегнейм": "hmduc11",
@@ -1433,6 +1433,17 @@
       "🏠︱english": 142,
       "🎨︱community-content": 22,
       "🇻🇳︱vietnamese": 1011
+    }
+  },
+  {
+    "id": "657239275250909217",
+    "ник_на_сервере": "kozh ./",
+    "тегнейм": "kozhcrypto",
+    "pfp": "https://cdn.discordapp.com/avatars/657239275250909217/e7cbbd434557806c61a258687b7033cd.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🏠︱english": 22,
+      "🎨︱community-content": 17,
+      "🇷🇺︱russian": 1099
     }
   },
   {
@@ -1447,17 +1458,6 @@
     }
   },
   {
-    "id": "657239275250909217",
-    "ник_на_сервере": "kozh ./",
-    "тегнейм": "kozhcrypto",
-    "pfp": "https://cdn.discordapp.com/avatars/657239275250909217/e7cbbd434557806c61a258687b7033cd.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 22,
-      "🎨︱community-content": 17,
-      "🇷🇺︱russian": 1080
-    }
-  },
-  {
     "id": "896095187489677353",
     "ник_на_сервере": "TOMMY",
     "тегнейм": "chuck112244",
@@ -1469,6 +1469,17 @@
     }
   },
   {
+    "id": "336523430151061514",
+    "ник_на_сервере": "Tính",
+    "тегнейм": "tinhtrannn",
+    "pfp": "https://cdn.discordapp.com/avatars/336523430151061514/000de59c794c50ec7471783ddf510297.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🏠︱english": 11,
+      "🎨︱community-content": 41,
+      "🇻🇳︱vietnamese": 1057
+    }
+  },
+  {
     "id": "725326070101835836",
     "ник_на_сервере": "Rz",
     "тегнейм": "rzstwnn_",
@@ -1476,7 +1487,18 @@
     "количество_сообщений_в_разных_каналах": {
       "🏠︱english": 456,
       "🎨︱community-content": 13,
-      "🇮🇩︱indonesian": 634
+      "🇮🇩︱indonesian": 635
+    }
+  },
+  {
+    "id": "526238682823393301",
+    "ник_на_сервере": "! ! Beast ! !",
+    "тегнейм": "been1575",
+    "pfp": "https://cdn.discordapp.com/avatars/526238682823393301/00637ca5e8b13b5d8b7864a7a4f5ac47.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🏠︱english": 74,
+      "🎨︱community-content": 4,
+      "🇻🇳︱vietnamese": 1022
     }
   },
   {
@@ -1491,25 +1513,14 @@
     }
   },
   {
-    "id": "336523430151061514",
-    "ник_на_сервере": "Tính",
-    "тегнейм": "tinhtrannn",
-    "pfp": "https://cdn.discordapp.com/avatars/336523430151061514/000de59c794c50ec7471783ddf510297.png?size=128",
+    "id": "1287048239710863370",
+    "ник_на_сервере": "0xrahman (flames arc)🔊🕊️",
+    "тегнейм": "o.rahman",
+    "pfp": "https://cdn.discordapp.com/avatars/1287048239710863370/db497197cf65792ea456ae6441b20b1e.png?size=128",
     "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 11,
-      "🎨︱community-content": 41,
-      "🇻🇳︱vietnamese": 1045
-    }
-  },
-  {
-    "id": "526238682823393301",
-    "ник_на_сервере": "! ! Beast ! !",
-    "тегнейм": "been1575",
-    "pfp": "https://cdn.discordapp.com/avatars/526238682823393301/00637ca5e8b13b5d8b7864a7a4f5ac47.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 74,
-      "🎨︱community-content": 4,
-      "🇻🇳︱vietnamese": 1018
+      "🏠︱english": 1046,
+      "🎨︱community-content": 9,
+      "🇳🇬︱nigerian": 30
     }
   },
   {
@@ -1521,6 +1532,17 @@
       "🏠︱english": 11,
       "🎨︱community-content": 8,
       "🇺🇦︱ukrainian": 1043
+    }
+  },
+  {
+    "id": "1354459184871116970",
+    "ник_на_сервере": "Flaha",
+    "тегнейм": "flaha_dter",
+    "pfp": "https://cdn.discordapp.com/avatars/1354459184871116970/c62f0215021d476ec36548a105bf0716.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🏠︱english": 93,
+      "🎨︱community-content": 36,
+      "🇻🇳︱vietnamese": 932
     }
   },
   {
@@ -1542,28 +1564,6 @@
       "🏠︱english": 188,
       "🎨︱community-content": 24,
       "🇻🇳︱vietnamese": 847
-    }
-  },
-  {
-    "id": "1287048239710863370",
-    "ник_на_сервере": "0xrahman (flames arc)🔊🕊️",
-    "тегнейм": "o.rahman",
-    "pfp": "https://cdn.discordapp.com/avatars/1287048239710863370/db497197cf65792ea456ae6441b20b1e.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 1013,
-      "🎨︱community-content": 8,
-      "🇳🇬︱nigerian": 30
-    }
-  },
-  {
-    "id": "1354459184871116970",
-    "ник_на_сервере": "Flaha",
-    "тегнейм": "flaha_dter",
-    "pfp": "https://cdn.discordapp.com/avatars/1354459184871116970/c62f0215021d476ec36548a105bf0716.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 93,
-      "🎨︱community-content": 35,
-      "🇻🇳︱vietnamese": 913
     }
   },
   {
@@ -1597,9 +1597,9 @@
     "тегнейм": ".ravensyndrome",
     "pfp": "https://cdn.discordapp.com/avatars/911861713442340945/adfc7a288ea76452cdfc1df612df1444.png?size=128",
     "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 173,
+      "🏠︱english": 175,
       "🎨︱community-content": 11,
-      "🇮🇩︱indonesian": 835
+      "🇮🇩︱indonesian": 837
     }
   },
   {
@@ -1661,7 +1661,7 @@
     "количество_сообщений_в_разных_каналах": {
       "🏠︱english": 38,
       "🎨︱community-content": 16,
-      "🇮🇩︱indonesian": 900
+      "🇮🇩︱indonesian": 907
     }
   },
   {
@@ -1729,6 +1729,16 @@
     }
   },
   {
+    "id": "764808630930374656",
+    "ник_на_сервере": "Vertex",
+    "тегнейм": "vertex9303",
+    "pfp": "https://cdn.discordapp.com/avatars/764808630930374656/9c7aa75553c265524d446aeeb41687f6.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🎨︱community-content": 1,
+      "🇺🇦︱ukrainian": 918
+    }
+  },
+  {
     "id": "889905604565532762",
     "ник_на_сервере": "Cao Thần Quang",
     "тегнейм": "thanquang_",
@@ -1752,23 +1762,13 @@
     }
   },
   {
-    "id": "764808630930374656",
-    "ник_на_сервере": "Vertex",
-    "тегнейм": "vertex9303",
-    "pfp": "https://cdn.discordapp.com/avatars/764808630930374656/9c7aa75553c265524d446aeeb41687f6.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🎨︱community-content": 1,
-      "🇺🇦︱ukrainian": 909
-    }
-  },
-  {
     "id": "757515261849894982",
     "ник_на_сервере": "GODZI",
     "тегнейм": "godzi_00",
     "pfp": "https://cdn.discordapp.com/avatars/757515261849894982/ef555f3397653756ab33693df5262f92.png?size=128",
     "количество_сообщений_в_разных_каналах": {
       "🏠︱english": 816,
-      "🇮🇳︱indian": 90
+      "🇮🇳︱indian": 91
     }
   },
   {
@@ -1790,7 +1790,7 @@
     "количество_сообщений_в_разных_каналах": {
       "🏠︱english": 26,
       "🎨︱community-content": 14,
-      "🇷🇺︱russian": 823
+      "🇷🇺︱russian": 825
     }
   },
   {
@@ -1870,14 +1870,14 @@
     }
   },
   {
-    "id": "1032547775851794502",
-    "ник_на_сервере": "kency",
-    "тегнейм": "kency17",
-    "pfp": "https://cdn.discordapp.com/avatars/1032547775851794502/a6b35c52c07905bce5a181b1a2e35f55.png?size=128",
+    "id": "1042398427385954364",
+    "ник_на_сервере": "Chaitanya",
+    "тегнейм": "chaitanya_2709",
+    "pfp": "https://cdn.discordapp.com/avatars/1042398427385954364/8335386baac67c318b726337bd12c9c4.png?size=128",
     "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 682,
-      "🎨︱community-content": 65,
-      "🇮🇳︱indian": 86
+      "🏠︱english": 762,
+      "🎨︱community-content": 3,
+      "🇮🇳︱indian": 68
     }
   },
   {
@@ -1886,13 +1886,24 @@
     "тегнейм": "lsdjun",
     "pfp": "https://cdn.discordapp.com/avatars/518149539253846021/562a5036b48d707ad030ed70ce788522.png?size=128",
     "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 427,
+      "🏠︱english": 429,
       "🎨︱community-content": 14,
       "🇨🇳︱chinese": 2,
       "🇻🇳︱vietnamese": 12,
       "🇷🇺︱russian": 2,
-      "🇮🇩︱indonesian": 364,
+      "🇮🇩︱indonesian": 365,
       "🇵🇭︱filipino": 9
+    }
+  },
+  {
+    "id": "1032547775851794502",
+    "ник_на_сервере": "kency",
+    "тегнейм": "kency17",
+    "pfp": "https://cdn.discordapp.com/avatars/1032547775851794502/a6b35c52c07905bce5a181b1a2e35f55.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🏠︱english": 682,
+      "🎨︱community-content": 65,
+      "🇮🇳︱indian": 86
     }
   },
   {
@@ -1907,14 +1918,14 @@
     }
   },
   {
-    "id": "1042398427385954364",
-    "ник_на_сервере": "Chaitanya",
-    "тегнейм": "chaitanya_2709",
-    "pfp": "https://cdn.discordapp.com/avatars/1042398427385954364/8335386baac67c318b726337bd12c9c4.png?size=128",
+    "id": "910789986914283530",
+    "ник_на_сервере": "pdthang810",
+    "тегнейм": "pdthang810",
+    "pfp": "https://cdn.discordapp.com/avatars/910789986914283530/2c4cc6c1aa4b3def3f41e510217532bb.png?size=128",
     "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 755,
-      "🎨︱community-content": 3,
-      "🇮🇳︱indian": 60
+      "🏠︱english": 184,
+      "🎨︱community-content": 6,
+      "🇻🇳︱vietnamese": 631
     }
   },
   {
@@ -1939,17 +1950,6 @@
     }
   },
   {
-    "id": "910789986914283530",
-    "ник_на_сервере": "pdthang810",
-    "тегнейм": "pdthang810",
-    "pfp": "https://cdn.discordapp.com/avatars/910789986914283530/2c4cc6c1aa4b3def3f41e510217532bb.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 184,
-      "🎨︱community-content": 6,
-      "🇻🇳︱vietnamese": 616
-    }
-  },
-  {
     "id": "1132658874235760742",
     "ник_на_сервере": "Oluwasegun",
     "тегнейм": "oluwasegun1334",
@@ -1961,17 +1961,6 @@
     }
   },
   {
-    "id": "1039190750111469652",
-    "ник_на_сервере": "Bugsnotfixedyet",
-    "тегнейм": "bugsnotfixedyet",
-    "pfp": "https://cdn.discordapp.com/avatars/1039190750111469652/a_4f19b25fd9f67652b7bf700759606791.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 310,
-      "🎨︱community-content": 8,
-      "🇮🇳︱indian": 485
-    }
-  },
-  {
     "id": "763267656442576936",
     "ник_на_сервере": "sonugg",
     "тегнейм": "sonugg",
@@ -1979,7 +1968,18 @@
     "количество_сообщений_в_разных_каналах": {
       "🏠︱english": 525,
       "🎨︱community-content": 26,
-      "🇮🇳︱indian": 251
+      "🇮🇳︱indian": 254
+    }
+  },
+  {
+    "id": "1039190750111469652",
+    "ник_на_сервере": "Bugsnotfixedyet",
+    "тегнейм": "bugsnotfixedyet",
+    "pfp": "https://cdn.discordapp.com/avatars/1039190750111469652/a_4f19b25fd9f67652b7bf700759606791.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🏠︱english": 310,
+      "🎨︱community-content": 8,
+      "🇮🇳︱indian": 486
     }
   },
   {
@@ -1991,6 +1991,17 @@
       "🏠︱english": 797,
       "🎨︱community-content": 1,
       "🇳🇬︱nigerian": 2
+    }
+  },
+  {
+    "id": "393990061361725454",
+    "ник_на_сервере": "Namri (❖,❖)",
+    "тегнейм": "arraya1120",
+    "pfp": "https://cdn.discordapp.com/avatars/393990061361725454/6fbae41efc392a0242afe8f8a39870e7.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🏠︱english": 62,
+      "🎨︱community-content": 4,
+      "🇮🇩︱indonesian": 731
     }
   },
   {
@@ -2082,25 +2093,14 @@
     }
   },
   {
-    "id": "393990061361725454",
-    "ник_на_сервере": "Namri (❖,❖)",
-    "тегнейм": "arraya1120",
-    "pfp": "https://cdn.discordapp.com/avatars/393990061361725454/6fbae41efc392a0242afe8f8a39870e7.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 62,
-      "🎨︱community-content": 4,
-      "🇮🇩︱indonesian": 705
-    }
-  },
-  {
     "id": "554687948977602560",
     "ник_на_сервере": "alssoe",
     "тегнейм": "alssoe",
     "pfp": "https://cdn.discordapp.com/avatars/554687948977602560/95178f529d51f20e2a6cc6d7d4d2a91a.png?size=128",
     "количество_сообщений_в_разных_каналах": {
       "🏠︱english": 4,
-      "🎨︱community-content": 20,
-      "🇷🇺︱russian": 731
+      "🎨︱community-content": 21,
+      "🇷🇺︱russian": 733
     }
   },
   {
@@ -2169,7 +2169,7 @@
     "количество_сообщений_в_разных_каналах": {
       "🏠︱english": 376,
       "🎨︱community-content": 11,
-      "🇮🇩︱indonesian": 347
+      "🇮🇩︱indonesian": 348
     }
   },
   {
@@ -2184,6 +2184,18 @@
     }
   },
   {
+    "id": "921277189318656070",
+    "ник_на_сервере": "action",
+    "тегнейм": "actiongod",
+    "pfp": "https://cdn.discordapp.com/avatars/921277189318656070/beb46e6752aaa37df65819dce20fbc56.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🏠︱english": 5,
+      "🎨︱community-content": 1,
+      "🇷🇺︱russian": 722,
+      "🇺🇦︱ukrainian": 2
+    }
+  },
+  {
     "id": "941758133339037766",
     "ник_на_сервере": "caythankhi1997",
     "тегнейм": "caythankhi1997",
@@ -2192,18 +2204,6 @@
       "🏠︱english": 83,
       "🎨︱community-content": 12,
       "🇻🇳︱vietnamese": 635
-    }
-  },
-  {
-    "id": "921277189318656070",
-    "ник_на_сервере": "action",
-    "тегнейм": "actiongod",
-    "pfp": "https://cdn.discordapp.com/avatars/921277189318656070/beb46e6752aaa37df65819dce20fbc56.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 5,
-      "🎨︱community-content": 1,
-      "🇷🇺︱russian": 719,
-      "🇺🇦︱ukrainian": 2
     }
   },
   {
@@ -2304,7 +2304,7 @@
     "количество_сообщений_в_разных_каналах": {
       "🏠︱english": 83,
       "🎨︱community-content": 40,
-      "🇵🇭︱filipino": 575
+      "🇵🇭︱filipino": 576
     }
   },
   {
@@ -2360,7 +2360,7 @@
       "🏠︱english": 38,
       "🎨︱community-content": 3,
       "🇨🇳︱chinese": 1,
-      "🇮🇩︱indonesian": 644
+      "🇮🇩︱indonesian": 645
     }
   },
   {
@@ -2496,6 +2496,17 @@
     }
   },
   {
+    "id": "804709011848298537",
+    "ник_на_сервере": "Mar 🇻🇳",
+    "тегнейм": "heaven6606",
+    "pfp": "https://cdn.discordapp.com/avatars/804709011848298537/f7540dbf080d37d1edf56489229ba834.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🏠︱english": 98,
+      "🎨︱community-content": 6,
+      "🇻🇳︱vietnamese": 539
+    }
+  },
+  {
     "id": "1329363305717956662",
     "ник_на_сервере": "Mị",
     "тегнейм": "huai_01",
@@ -2530,7 +2541,7 @@
     "тегнейм": "lingroo",
     "pfp": "https://cdn.discordapp.com/avatars/1131636793926766614/ba7314bf25a2997da991e89e056a815e.png?size=128",
     "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 483,
+      "🏠︱english": 487,
       "🎨︱community-content": 31,
       "🇨🇳︱chinese": 113
     }
@@ -2586,7 +2597,7 @@
     "количество_сообщений_в_разных_каналах": {
       "🏠︱english": 9,
       "🎨︱community-content": 33,
-      "🇷🇺︱russian": 575
+      "🇷🇺︱russian": 576
     }
   },
   {
@@ -2598,17 +2609,6 @@
       "🏠︱english": 14,
       "🎨︱community-content": 12,
       "🇮🇩︱indonesian": 590
-    }
-  },
-  {
-    "id": "804709011848298537",
-    "ник_на_сервере": "Mar 🇻🇳",
-    "тегнейм": "heaven6606",
-    "pfp": "https://cdn.discordapp.com/avatars/804709011848298537/f7540dbf080d37d1edf56489229ba834.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 98,
-      "🎨︱community-content": 6,
-      "🇻🇳︱vietnamese": 511
     }
   },
   {
@@ -2748,6 +2748,17 @@
     }
   },
   {
+    "id": "706629392113074298",
+    "ник_на_сервере": "Serenadee",
+    "тегнейм": "serenadee",
+    "pfp": "https://cdn.discordapp.com/avatars/706629392113074298/837b6424dad493dfdb351b2e79f40f21.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🏠︱english": 26,
+      "🎨︱community-content": 2,
+      "🇮🇩︱indonesian": 556
+    }
+  },
+  {
     "id": "969777124288368690",
     "ник_на_сервере": "Ayanaa",
     "тегнейм": "ayanaaxx",
@@ -2846,14 +2857,14 @@
     }
   },
   {
-    "id": "706629392113074298",
-    "ник_на_сервере": "Serenadee",
-    "тегнейм": "serenadee",
-    "pfp": "https://cdn.discordapp.com/avatars/706629392113074298/837b6424dad493dfdb351b2e79f40f21.png?size=128",
+    "id": "1088013061262159903",
+    "ник_на_сервере": "Light",
+    "тегнейм": "aily3828",
+    "pfp": "https://cdn.discordapp.com/avatars/1088013061262159903/04a39d55927b53950edf3abd0f536bd4.png?size=128",
     "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 26,
-      "🎨︱community-content": 2,
-      "🇮🇩︱indonesian": 537
+      "🏠︱english": 80,
+      "🎨︱community-content": 4,
+      "🇻🇳︱vietnamese": 480
     }
   },
   {
@@ -2865,17 +2876,6 @@
       "🏠︱english": 519,
       "🎨︱community-content": 8,
       "🇳🇬︱nigerian": 37
-    }
-  },
-  {
-    "id": "1088013061262159903",
-    "ник_на_сервере": "Light",
-    "тегнейм": "aily3828",
-    "pfp": "https://cdn.discordapp.com/avatars/1088013061262159903/04a39d55927b53950edf3abd0f536bd4.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 80,
-      "🎨︱community-content": 4,
-      "🇻🇳︱vietnamese": 479
     }
   },
   {
@@ -2932,7 +2932,7 @@
     "pfp": "https://cdn.discordapp.com/avatars/545262283161468928/a_44eb39ffcea4fdd19f50f2f4b35efad5.png?size=128",
     "количество_сообщений_в_разных_каналах": {
       "🏠︱english": 1,
-      "🇻🇳︱vietnamese": 545
+      "🇻🇳︱vietnamese": 546
     }
   },
   {
@@ -2943,6 +2943,17 @@
     "количество_сообщений_в_разных_каналах": {
       "🏠︱english": 543,
       "🎨︱community-content": 2
+    }
+  },
+  {
+    "id": "814120408998477844",
+    "ник_на_сервере": "Namcamm",
+    "тегнейм": "namcam",
+    "pfp": "https://cdn.discordapp.com/avatars/814120408998477844/a6bb06376d4b62dd1d26b08876719a67.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🎨︱community-content": 2,
+      "🇻🇳︱vietnamese": 541,
+      "🏠︱english": 1
     }
   },
   {
@@ -2996,7 +3007,8 @@
     "количество_сообщений_в_разных_каналах": {
       "🏠︱english": 52,
       "🎨︱community-content": 5,
-      "🇨🇳︱chinese": 480
+      "🇨🇳︱chinese": 480,
+      "📜︱raiku-tweets": 1
     }
   },
   {
@@ -3008,7 +3020,7 @@
       "🏠︱english": 166,
       "🎨︱community-content": 30,
       "🇻🇳︱vietnamese": 2,
-      "🇹🇭︱thai": 337
+      "🇹🇭︱thai": 338
     }
   },
   {
@@ -3020,17 +3032,6 @@
       "🏠︱english": 272,
       "🎨︱community-content": 13,
       "🇻🇳︱vietnamese": 249
-    }
-  },
-  {
-    "id": "814120408998477844",
-    "ник_на_сервере": "Namcamm",
-    "тегнейм": "namcam",
-    "pfp": "https://cdn.discordapp.com/avatars/814120408998477844/a6bb06376d4b62dd1d26b08876719a67.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🎨︱community-content": 2,
-      "🇻🇳︱vietnamese": 525,
-      "🏠︱english": 1
     }
   },
   {
@@ -3067,6 +3068,17 @@
     }
   },
   {
+    "id": "726614160632446997",
+    "ник_на_сервере": "saeful",
+    "тегнейм": "whoisfull",
+    "pfp": "https://cdn.discordapp.com/avatars/726614160632446997/7760fc1c4d2b9c4835a7b56a001185d4.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🏠︱english": 10,
+      "🎨︱community-content": 4,
+      "🇮🇩︱indonesian": 507
+    }
+  },
+  {
     "id": "968919971243626517",
     "ник_на_сервере": "VadimWright",
     "тегнейм": "vadimwright",
@@ -3088,17 +3100,6 @@
     }
   },
   {
-    "id": "726614160632446997",
-    "ник_на_сервере": "saeful",
-    "тегнейм": "whoisfull",
-    "pfp": "https://cdn.discordapp.com/avatars/726614160632446997/a3f23a4ff453c17486f31319f7bb5cdb.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 10,
-      "🎨︱community-content": 4,
-      "🇮🇩︱indonesian": 505
-    }
-  },
-  {
     "id": "1102106717728280606",
     "ник_на_сервере": "Wij",
     "тегнейм": "karinsan20",
@@ -3107,6 +3108,28 @@
       "🏠︱english": 271,
       "🎨︱community-content": 1,
       "🇮🇩︱indonesian": 246
+    }
+  },
+  {
+    "id": "903806744554258443",
+    "ник_на_сервере": "Thy King",
+    "тегнейм": "glory2019",
+    "pfp": "https://cdn.discordapp.com/avatars/903806744554258443/5945ed819701f5c798e399262d37ae29.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🏠︱english": 452,
+      "🎨︱community-content": 8,
+      "🇳🇬︱nigerian": 46,
+      "🇫🇷︱french": 4
+    }
+  },
+  {
+    "id": "1070635357206491216",
+    "ник_на_сервере": "kristi",
+    "тегнейм": "roa_asap",
+    "pfp": "https://cdn.discordapp.com/avatars/1070635357206491216/a_8e2c179df1c7aec0771bd4da5db5ed0a.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🏠︱english": 1,
+      "🇮🇩︱indonesian": 508
     }
   },
   {
@@ -3132,6 +3155,18 @@
     }
   },
   {
+    "id": "1152896083337412619",
+    "ник_на_сервере": "Cryptobaksi",
+    "тегнейм": "cryptobaksbanny",
+    "pfp": "https://cdn.discordapp.com/avatars/1152896083337412619/2368eb716e46f29ccef5945b00a55ec9.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🏠︱english": 3,
+      "🎨︱community-content": 13,
+      "🇷🇺︱russian": 45,
+      "🇺🇦︱ukrainian": 447
+    }
+  },
+  {
     "id": "492346432121208833",
     "ник_на_сервере": "Teye",
     "тегнейм": "teyexbt",
@@ -3139,18 +3174,6 @@
     "количество_сообщений_в_разных_каналах": {
       "🏠︱english": 193,
       "🇮🇩︱indonesian": 315
-    }
-  },
-  {
-    "id": "903806744554258443",
-    "ник_на_сервере": "Thy King",
-    "тегнейм": "glory2019",
-    "pfp": "https://cdn.discordapp.com/avatars/903806744554258443/5945ed819701f5c798e399262d37ae29.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 449,
-      "🎨︱community-content": 8,
-      "🇳🇬︱nigerian": 46,
-      "🇫🇷︱french": 4
     }
   },
   {
@@ -3177,6 +3200,17 @@
     }
   },
   {
+    "id": "688688422810025997",
+    "ник_на_сервере": "alburtsev",
+    "тегнейм": "alburtsev",
+    "pfp": "https://cdn.discordapp.com/avatars/688688422810025997/ff1c4bf25c9c8b360c40c5084b412a73.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🏠︱english": 36,
+      "🎨︱community-content": 11,
+      "🇷🇺︱russian": 454
+    }
+  },
+  {
     "id": "1144930850765545592",
     "ник_на_сервере": "Skylaaarrrkkk",
     "тегнейм": "maulana88077",
@@ -3185,17 +3219,6 @@
       "🏠︱english": 71,
       "🎨︱community-content": 1,
       "🇮🇩︱indonesian": 427
-    }
-  },
-  {
-    "id": "688688422810025997",
-    "ник_на_сервере": "alburtsev",
-    "тегнейм": "alburtsev",
-    "pfp": "https://cdn.discordapp.com/avatars/688688422810025997/ff1c4bf25c9c8b360c40c5084b412a73.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 36,
-      "🎨︱community-content": 11,
-      "🇷🇺︱russian": 451
     }
   },
   {
@@ -3235,16 +3258,6 @@
     }
   },
   {
-    "id": "1070635357206491216",
-    "ник_на_сервере": "kristi",
-    "тегнейм": "roa_asap",
-    "pfp": "https://cdn.discordapp.com/avatars/1070635357206491216/e1a02228b20f59ffb081b6f6607bb40c.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 1,
-      "🇮🇩︱indonesian": 490
-    }
-  },
-  {
     "id": "888449367185440809",
     "ник_на_сервере": "segoendok",
     "тегнейм": "segoendok",
@@ -3253,6 +3266,19 @@
       "🏠︱english": 70,
       "🎨︱community-content": 10,
       "🇮🇩︱indonesian": 410
+    }
+  },
+  {
+    "id": "750849456584392734",
+    "ник_на_сервере": "BM",
+    "тегнейм": "bm24666",
+    "pfp": "https://cdn.discordapp.com/avatars/750849456584392734/c6518bec513d2fb1bbe097a4ee697c93.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🏠︱english": 109,
+      "🎨︱community-content": 11,
+      "🇻🇳︱vietnamese": 6,
+      "🇷🇺︱russian": 1,
+      "🇮🇩︱indonesian": 359
     }
   },
   {
@@ -3275,18 +3301,6 @@
       "🏠︱english": 431,
       "🎨︱community-content": 2,
       "🇳🇬︱nigerian": 51
-    }
-  },
-  {
-    "id": "1152896083337412619",
-    "ник_на_сервере": "Cryptobaksi",
-    "тегнейм": "cryptobaksbanny",
-    "pfp": "https://cdn.discordapp.com/avatars/1152896083337412619/2368eb716e46f29ccef5945b00a55ec9.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 3,
-      "🎨︱community-content": 12,
-      "🇷🇺︱russian": 45,
-      "🇺🇦︱ukrainian": 422
     }
   },
   {
@@ -3352,19 +3366,6 @@
       "🏠︱english": 26,
       "🎨︱community-content": 15,
       "🇻🇳︱vietnamese": 437
-    }
-  },
-  {
-    "id": "750849456584392734",
-    "ник_на_сервере": "BM",
-    "тегнейм": "bm24666",
-    "pfp": "https://cdn.discordapp.com/avatars/750849456584392734/c6518bec513d2fb1bbe097a4ee697c93.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 108,
-      "🎨︱community-content": 10,
-      "🇻🇳︱vietnamese": 6,
-      "🇷🇺︱russian": 1,
-      "🇮🇩︱indonesian": 352
     }
   },
   {
@@ -3782,6 +3783,16 @@
     }
   },
   {
+    "id": "917077549052489738",
+    "ник_на_сервере": "wzscarlet",
+    "тегнейм": "wzscarlet",
+    "pfp": "https://cdn.discordapp.com/avatars/917077549052489738/72cf2cdef6a64b90d6cfd4284c8f87bf.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🏠︱english": 15,
+      "🇮🇩︱indonesian": 416
+    }
+  },
+  {
     "id": "917005461813882920",
     "ник_на_сервере": null,
     "тегнейм": "kook7703",
@@ -3823,6 +3834,16 @@
     }
   },
   {
+    "id": "1026031398756306995",
+    "ник_на_сервере": "Manlucky ./",
+    "тегнейм": "manlucky",
+    "pfp": "https://cdn.discordapp.com/avatars/1026031398756306995/af7dcf6e2c077e012b5815a7ba013996.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🏠︱english": 2,
+      "🇻🇳︱vietnamese": 422
+    }
+  },
+  {
     "id": "1061377454603784222",
     "ник_на_сервере": "Omogecrypto (❖,❖)",
     "тегнейм": "omogecrypto",
@@ -3840,16 +3861,6 @@
     "количество_сообщений_в_разных_каналах": {
       "🏠︱english": 3,
       "🇻🇳︱vietnamese": 421
-    }
-  },
-  {
-    "id": "917077549052489738",
-    "ник_на_сервере": "wzscarlet",
-    "тегнейм": "wzscarlet",
-    "pfp": "https://cdn.discordapp.com/avatars/917077549052489738/72cf2cdef6a64b90d6cfd4284c8f87bf.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 15,
-      "🇮🇩︱indonesian": 407
     }
   },
   {
@@ -3923,7 +3934,7 @@
     "pfp": "https://cdn.discordapp.com/avatars/1256149930880405597/e613113b257ebae1d442daf159ac6e45.png?size=128",
     "количество_сообщений_в_разных_каналах": {
       "🏠︱english": 173,
-      "🇮🇳︱indian": 238
+      "🇮🇳︱indian": 239
     }
   },
   {
@@ -4022,6 +4033,16 @@
       "🏠︱english": 148,
       "🎨︱community-content": 1,
       "🇮🇩︱indonesian": 255
+    }
+  },
+  {
+    "id": "844633199710699570",
+    "ник_на_сервере": "ホドル KING 👑",
+    "тегнейм": "ha_sumit",
+    "pfp": "https://cdn.discordapp.com/avatars/844633199710699570/a7aec6155946b3474890a001c0f85159.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🏠︱english": 387,
+      "🇮🇳︱indian": 16
     }
   },
   {
@@ -4135,16 +4156,6 @@
     }
   },
   {
-    "id": "844633199710699570",
-    "ник_на_сервере": "ホドル KING 👑",
-    "тегнейм": "ha_sumit",
-    "pfp": "https://cdn.discordapp.com/avatars/844633199710699570/a7aec6155946b3474890a001c0f85159.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 376,
-      "🇮🇳︱indian": 16
-    }
-  },
-  {
     "id": "808646534802964521",
     "ник_на_сервере": "Lionel Taking",
     "тегнейм": "takingtom",
@@ -4219,16 +4230,6 @@
       "🏠︱english": 165,
       "🎨︱community-content": 5,
       "🇯🇵︱japanese": 217
-    }
-  },
-  {
-    "id": "1026031398756306995",
-    "ник_на_сервере": "Manlucky ./",
-    "тегнейм": "manlucky",
-    "pfp": "https://cdn.discordapp.com/avatars/1026031398756306995/af7dcf6e2c077e012b5815a7ba013996.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 2,
-      "🇻🇳︱vietnamese": 384
     }
   },
   {
@@ -4445,6 +4446,16 @@
     }
   },
   {
+    "id": "1326931810004762720",
+    "ник_на_сервере": "popoy",
+    "тегнейм": "popoynotbad",
+    "pfp": "https://cdn.discordapp.com/avatars/1326931810004762720/d238151d02116035de07bedb8c7616cf.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🏠︱english": 23,
+      "🇮🇩︱indonesian": 338
+    }
+  },
+  {
     "id": "432540886401024001",
     "ник_на_сервере": "Liandoyyy",
     "тегнейм": "liandoyyy",
@@ -4482,16 +4493,6 @@
     "количество_сообщений_в_разных_каналах": {
       "🏠︱english": 349,
       "🇳🇬︱nigerian": 9
-    }
-  },
-  {
-    "id": "1326931810004762720",
-    "ник_на_сервере": "popoy",
-    "тегнейм": "popoynotbad",
-    "pfp": "https://cdn.discordapp.com/avatars/1326931810004762720/d238151d02116035de07bedb8c7616cf.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 23,
-      "🇮🇩︱indonesian": 334
     }
   },
   {
@@ -4686,7 +4687,7 @@
     "тегнейм": "monimonji",
     "pfp": "https://cdn.discordapp.com/avatars/1204829953787568251/6d939d01226150933f4b30946372459c.png?size=128",
     "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 335,
+      "🏠︱english": 337,
       "🎨︱community-content": 1
     }
   },
@@ -5146,6 +5147,16 @@
     }
   },
   {
+    "id": "418025943660232714",
+    "ник_на_сервере": "twolight",
+    "тегнейм": "twolight",
+    "pfp": "https://cdn.discordapp.com/avatars/418025943660232714/beafee622194a048dabcc683ffd49614.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🏠︱english": 2,
+      "🇻🇳︱vietnamese": 290
+    }
+  },
+  {
     "id": "1204101564378386467",
     "ник_на_сервере": "Yïn_kå🍀 (❖,❖)",
     "тегнейм": "micah_el04",
@@ -5198,6 +5209,17 @@
       "🏠︱english": 171,
       "🎨︱community-content": 1,
       "🇮🇩︱indonesian": 116
+    }
+  },
+  {
+    "id": "545957699171385355",
+    "ник_на_сервере": "Vectra",
+    "тегнейм": "vecttworld1",
+    "pfp": "https://cdn.discordapp.com/avatars/545957699171385355/881e49511af88e9a79307a14b1b2f4b9.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🏠︱english": 55,
+      "🎨︱community-content": 25,
+      "🇮🇩︱indonesian": 207
     }
   },
   {
@@ -5308,17 +5330,6 @@
     }
   },
   {
-    "id": "545957699171385355",
-    "ник_на_сервере": "Vectra",
-    "тегнейм": "vecttworld1",
-    "pfp": "https://cdn.discordapp.com/avatars/545957699171385355/881e49511af88e9a79307a14b1b2f4b9.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 55,
-      "🎨︱community-content": 25,
-      "🇮🇩︱indonesian": 202
-    }
-  },
-  {
     "id": "946703696278994944",
     "ник_на_сервере": "omartuta",
     "тегнейм": "omarnouval",
@@ -5338,16 +5349,6 @@
       "🏠︱english": 76,
       "🎨︱community-content": 2,
       "🇷🇺︱russian": 204
-    }
-  },
-  {
-    "id": "418025943660232714",
-    "ник_на_сервере": "twolight",
-    "тегнейм": "twolight",
-    "pfp": "https://cdn.discordapp.com/avatars/418025943660232714/beafee622194a048dabcc683ffd49614.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 2,
-      "🇻🇳︱vietnamese": 279
     }
   },
   {
@@ -6023,6 +6024,17 @@
     }
   },
   {
+    "id": "1195378954773745668",
+    "ник_на_сервере": "DeWin",
+    "тегнейм": "dewinnn_quack_quack",
+    "pfp": "https://cdn.discordapp.com/avatars/1195378954773745668/18ddbc4cdcdb7d41c1273ec9434ca36e.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🏠︱english": 7,
+      "🎨︱community-content": 2,
+      "🇻🇳︱vietnamese": 237
+    }
+  },
+  {
     "id": "1111542932017774643",
     "ник_на_сервере": null,
     "тегнейм": "anlog8386",
@@ -6050,17 +6062,6 @@
     "количество_сообщений_в_разных_каналах": {
       "🏠︱english": 242,
       "🎨︱community-content": 3
-    }
-  },
-  {
-    "id": "1195378954773745668",
-    "ник_на_сервере": "DeWin",
-    "тегнейм": "dewinnn_quack_quack",
-    "pfp": "https://cdn.discordapp.com/avatars/1195378954773745668/18ddbc4cdcdb7d41c1273ec9434ca36e.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 7,
-      "🎨︱community-content": 2,
-      "🇻🇳︱vietnamese": 236
     }
   },
   {
@@ -6156,6 +6157,17 @@
     }
   },
   {
+    "id": "943735165778264105",
+    "ник_на_сервере": null,
+    "тегнейм": "asgorchik",
+    "pfp": "https://cdn.discordapp.com/avatars/943735165778264105/cfd9a0c5a41d8736ca696b2d71beadfc.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🏠︱english": 21,
+      "🎨︱community-content": 3,
+      "🇷🇺︱russian": 217
+    }
+  },
+  {
     "id": "1216295400076738580",
     "ник_на_сервере": "Adetola !! 🟪 Chef",
     "тегнейм": "sirtee1209",
@@ -6231,6 +6243,28 @@
     }
   },
   {
+    "id": "932226630305349712",
+    "ник_на_сервере": "chris_setra",
+    "тегнейм": "chris_setra",
+    "pfp": "https://cdn.discordapp.com/avatars/932226630305349712/fb1c92f0f39e83d4566b6c3c409aab48.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🏠︱english": 41,
+      "🎨︱community-content": 3,
+      "🇮🇩︱indonesian": 193
+    }
+  },
+  {
+    "id": "591447400795865088",
+    "ник_на_сервере": "jr.ul",
+    "тегнейм": "jrul",
+    "pfp": "https://cdn.discordapp.com/avatars/591447400795865088/57fae5f2efba7a18a71ad5c594b74141.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🏠︱english": 36,
+      "🇮🇩︱indonesian": 199,
+      "🎨︱community-content": 2
+    }
+  },
+  {
     "id": "1038467252988690462",
     "ник_на_сервере": "k O j O",
     "тегнейм": "kuljoe.",
@@ -6260,28 +6294,6 @@
     "количество_сообщений_в_разных_каналах": {
       "🏠︱english": 135,
       "🇮🇩︱indonesian": 102
-    }
-  },
-  {
-    "id": "932226630305349712",
-    "ник_на_сервере": "chris_setra",
-    "тегнейм": "chris_setra",
-    "pfp": "https://cdn.discordapp.com/avatars/932226630305349712/fb1c92f0f39e83d4566b6c3c409aab48.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 41,
-      "🎨︱community-content": 3,
-      "🇮🇩︱indonesian": 192
-    }
-  },
-  {
-    "id": "591447400795865088",
-    "ник_на_сервере": "jr.ul",
-    "тегнейм": "jrul",
-    "pfp": "https://cdn.discordapp.com/avatars/591447400795865088/57fae5f2efba7a18a71ad5c594b74141.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 36,
-      "🇮🇩︱indonesian": 198,
-      "🎨︱community-content": 2
     }
   },
   {
@@ -6526,6 +6538,17 @@
     }
   },
   {
+    "id": "1107955979670257725",
+    "ник_на_сервере": "Duong✨",
+    "тегнейм": "duong2165",
+    "pfp": "https://cdn.discordapp.com/avatars/1107955979670257725/a539aba8aa1c8e88ff2709da353b9fe1.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🏠︱english": 1,
+      "🎨︱community-content": 1,
+      "🇻🇳︱vietnamese": 222
+    }
+  },
+  {
     "id": "892735252173320192",
     "ник_на_сервере": "Finest_Manager",
     "тегнейм": "finest_manager",
@@ -6579,6 +6602,28 @@
     }
   },
   {
+    "id": "1112662127275163698",
+    "ник_на_сервере": "Alex",
+    "тегнейм": "crypto_aleg4",
+    "pfp": "https://cdn.discordapp.com/avatars/1112662127275163698/94f4e4426f659284efe51a18fe50f93c.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🏠︱english": 192,
+      "🎨︱community-content": 13,
+      "🇻🇳︱vietnamese": 15
+    }
+  },
+  {
+    "id": "1304714324165656647",
+    "ник_на_сервере": "KucingNKL",
+    "тегнейм": "eskrimkonelo",
+    "pfp": "https://cdn.discordapp.com/avatars/1304714324165656647/5e4e72210a02c6bef59dc7949b7cf90a.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🏠︱english": 68,
+      "🎨︱community-content": 2,
+      "🇮🇩︱indonesian": 150
+    }
+  },
+  {
     "id": "1275441648200847393",
     "ник_на_сервере": "ASHA | Baby Goat",
     "тегнейм": "asha_eth",
@@ -6607,28 +6652,6 @@
       "🏠︱english": 211,
       "🎨︱community-content": 8,
       "🇳🇬︱nigerian": 1
-    }
-  },
-  {
-    "id": "1112662127275163698",
-    "ник_на_сервере": "Alex",
-    "тегнейм": "crypto_aleg4",
-    "pfp": "https://cdn.discordapp.com/avatars/1112662127275163698/94f4e4426f659284efe51a18fe50f93c.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 191,
-      "🎨︱community-content": 13,
-      "🇻🇳︱vietnamese": 15
-    }
-  },
-  {
-    "id": "1304714324165656647",
-    "ник_на_сервере": "KucingNKL",
-    "тегнейм": "eskrimkonelo",
-    "pfp": "https://cdn.discordapp.com/avatars/1304714324165656647/5e4e72210a02c6bef59dc7949b7cf90a.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 68,
-      "🎨︱community-content": 2,
-      "🇮🇩︱indonesian": 149
     }
   },
   {
@@ -6691,17 +6714,6 @@
       "🏠︱english": 90,
       "🎨︱community-content": 10,
       "🇳🇬︱nigerian": 116
-    }
-  },
-  {
-    "id": "1107955979670257725",
-    "ник_на_сервере": "Duong✨",
-    "тегнейм": "duong2165",
-    "pfp": "https://cdn.discordapp.com/avatars/1107955979670257725/a539aba8aa1c8e88ff2709da353b9fe1.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 1,
-      "🎨︱community-content": 1,
-      "🇻🇳︱vietnamese": 214
     }
   },
   {
@@ -7064,6 +7076,17 @@
     }
   },
   {
+    "id": "981504556154380319",
+    "ник_на_сервере": "Ikky",
+    "тегнейм": "riqqithe",
+    "pfp": "https://cdn.discordapp.com/avatars/981504556154380319/0b14659f0044bfebf791b462e52973ee.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🏠︱english": 55,
+      "🎨︱community-content": 3,
+      "🇮🇩︱indonesian": 141
+    }
+  },
+  {
     "id": "873960922387980298",
     "ник_на_сервере": "salt",
     "тегнейм": "saltnpc",
@@ -7083,17 +7106,6 @@
       "🏠︱english": 197,
       "🎨︱community-content": 1,
       "🇳🇬︱nigerian": 1
-    }
-  },
-  {
-    "id": "981504556154380319",
-    "ник_на_сервере": "Ikky",
-    "тегнейм": "riqqithe",
-    "pfp": "https://cdn.discordapp.com/avatars/981504556154380319/0b14659f0044bfebf791b462e52973ee.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 55,
-      "🎨︱community-content": 3,
-      "🇮🇩︱indonesian": 140
     }
   },
   {
@@ -7252,6 +7264,17 @@
     }
   },
   {
+    "id": "956218248674803772",
+    "ник_на_сервере": "phongquyen",
+    "тегнейм": "phongquyen1506",
+    "pfp": "https://cdn.discordapp.com/avatars/956218248674803772/cc522476df8552370f6afceda889be79.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🏠︱english": 10,
+      "🇻🇳︱vietnamese": 179,
+      "🎨︱community-content": 1
+    }
+  },
+  {
     "id": "816909982926372865",
     "ник_на_сервере": "Felmyst",
     "тегнейм": "kajikafi",
@@ -7270,17 +7293,6 @@
       "🏠︱english": 44,
       "🎨︱community-content": 1,
       "🇮🇩︱indonesian": 144
-    }
-  },
-  {
-    "id": "956218248674803772",
-    "ник_на_сервере": "phongquyen",
-    "тегнейм": "phongquyen1506",
-    "pfp": "https://cdn.discordapp.com/avatars/956218248674803772/cc522476df8552370f6afceda889be79.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 9,
-      "🇻🇳︱vietnamese": 179,
-      "🎨︱community-content": 1
     }
   },
   {
@@ -7304,6 +7316,16 @@
     }
   },
   {
+    "id": "1323420976603730023",
+    "ник_на_сервере": "jayden_wood",
+    "тегнейм": "jayden_wood",
+    "pfp": "https://cdn.discordapp.com/avatars/1323420976603730023/fcf07a51d831501acb9e84117d00c1a8.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🏠︱english": 41,
+      "🇻🇳︱vietnamese": 147
+    }
+  },
+  {
     "id": "442383205593645087",
     "ник_на_сервере": "EdooVX (❖,❖)",
     "тегнейм": "edhovx",
@@ -7321,16 +7343,6 @@
     "pfp": "https://cdn.discordapp.com/avatars/1072626612933251142/17d7a986fb1a3066000343a6e4a72dd8.png?size=128",
     "количество_сообщений_в_разных_каналах": {
       "🏠︱english": 187
-    }
-  },
-  {
-    "id": "1323420976603730023",
-    "ник_на_сервере": "jayden_wood",
-    "тегнейм": "jayden_wood",
-    "pfp": "https://cdn.discordapp.com/avatars/1323420976603730023/fcf07a51d831501acb9e84117d00c1a8.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 41,
-      "🇻🇳︱vietnamese": 145
     }
   },
   {
@@ -7465,6 +7477,17 @@
     "количество_сообщений_в_разных_каналах": {
       "🏠︱english": 30,
       "🇻🇳︱vietnamese": 152
+    }
+  },
+  {
+    "id": "835960531364872252",
+    "ник_на_сервере": "hieu",
+    "тегнейм": "hieunguyen1989.eth",
+    "pfp": "https://cdn.discordapp.com/avatars/835960531364872252/271ee374ea2b8bddd8ed28f0f32177b5.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🏠︱english": 53,
+      "🎨︱community-content": 7,
+      "🇻🇳︱vietnamese": 122
     }
   },
   {
@@ -7686,6 +7709,17 @@
     }
   },
   {
+    "id": "863611921432444958",
+    "ник_на_сервере": "julian23",
+    "тегнейм": "juliansiena23",
+    "pfp": "https://cdn.discordapp.com/avatars/863611921432444958/ddf67904486e457e2bc6502c8ae4d5be.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🏠︱english": 13,
+      "🎨︱community-content": 8,
+      "🇮🇩︱indonesian": 154
+    }
+  },
+  {
     "id": "1357224001608351805",
     "ник_на_сервере": "Lavkush 🇮🇳 ༒LAV༒",
     "тегнейм": "lodhi0115",
@@ -7723,17 +7757,6 @@
     "pfp": "https://cdn.discordapp.com/avatars/689038989440974855/573f289a91f350098be41d96687d8af5.png?size=128",
     "количество_сообщений_в_разных_каналах": {
       "🇮🇩︱indonesian": 175
-    }
-  },
-  {
-    "id": "863611921432444958",
-    "ник_на_сервере": "julian23",
-    "тегнейм": "juliansiena23",
-    "pfp": "https://cdn.discordapp.com/avatars/863611921432444958/ddf67904486e457e2bc6502c8ae4d5be.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 13,
-      "🎨︱community-content": 8,
-      "🇮🇩︱indonesian": 153
     }
   },
   {
@@ -7790,6 +7813,28 @@
     }
   },
   {
+    "id": "400735592201060357",
+    "ник_на_сервере": "K e n z",
+    "тегнейм": "0xkenz_",
+    "pfp": "https://cdn.discordapp.com/avatars/400735592201060357/5df147677fdd20dba7b9a0bc7c339eaf.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🇮🇩︱indonesian": 165,
+      "🏠︱english": 6,
+      "🎨︱community-content": 2
+    }
+  },
+  {
+    "id": "475727550098833428",
+    "ник_на_сервере": "Ei, on Maks",
+    "тегнейм": "eionmakc",
+    "pfp": "https://cdn.discordapp.com/avatars/475727550098833428/24a5e01f1b9987c0d17003222cd2126c.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🏠︱english": 48,
+      "🎨︱community-content": 11,
+      "🇺🇦︱ukrainian": 113
+    }
+  },
+  {
     "id": "1285076097163202590",
     "ник_на_сервере": "Koji",
     "тегнейм": "koji02401",
@@ -7808,17 +7853,6 @@
       "🏠︱english": 79,
       "🎨︱community-content": 6,
       "🇻🇳︱vietnamese": 87
-    }
-  },
-  {
-    "id": "475727550098833428",
-    "ник_на_сервере": "Ei, on Maks",
-    "тегнейм": "eionmakc",
-    "pfp": "https://cdn.discordapp.com/avatars/475727550098833428/24a5e01f1b9987c0d17003222cd2126c.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 48,
-      "🎨︱community-content": 11,
-      "🇺🇦︱ukrainian": 112
     }
   },
   {
@@ -7966,17 +8000,6 @@
     }
   },
   {
-    "id": "943735165778264105",
-    "ник_на_сервере": null,
-    "тегнейм": "asgorchik",
-    "pfp": "https://cdn.discordapp.com/avatars/943735165778264105/cfd9a0c5a41d8736ca696b2d71beadfc.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 20,
-      "🎨︱community-content": 1,
-      "🇷🇺︱russian": 148
-    }
-  },
-  {
     "id": "414463255025680394",
     "ник_на_сервере": "Duskie",
     "тегнейм": "duskiesoul",
@@ -7996,14 +8019,14 @@
     }
   },
   {
-    "id": "835960531364872252",
-    "ник_на_сервере": "hieu",
-    "тегнейм": "hieunguyen1989.eth",
-    "pfp": "https://cdn.discordapp.com/avatars/835960531364872252/271ee374ea2b8bddd8ed28f0f32177b5.png?size=128",
+    "id": "1021478084593057893",
+    "ник_на_сервере": "Zuncay",
+    "тегнейм": "hazun2305",
+    "pfp": "https://cdn.discordapp.com/avatars/1021478084593057893/6616f09eeb6dac1d271419e73320ef51.png?size=128",
     "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 50,
-      "🎨︱community-content": 7,
-      "🇻🇳︱vietnamese": 111
+      "🏠︱english": 16,
+      "🎨︱community-content": 5,
+      "🇻🇳︱vietnamese": 146
     }
   },
   {
@@ -8120,17 +8143,6 @@
     "количество_сообщений_в_разных_каналах": {
       "🏠︱english": 160,
       "🎨︱community-content": 4
-    }
-  },
-  {
-    "id": "1021478084593057893",
-    "ник_на_сервере": "Zuncay",
-    "тегнейм": "hazun2305",
-    "pfp": "https://cdn.discordapp.com/avatars/1021478084593057893/6616f09eeb6dac1d271419e73320ef51.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 16,
-      "🎨︱community-content": 5,
-      "🇻🇳︱vietnamese": 143
     }
   },
   {
@@ -8349,6 +8361,16 @@
     }
   },
   {
+    "id": "1253674127173357622",
+    "ник_на_сервере": "repp",
+    "тегнейм": "rep0302",
+    "pfp": "https://cdn.discordapp.com/avatars/1253674127173357622/3f753c7066952256441e330a5fca2af2.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🏠︱english": 18,
+      "🇮🇩︱indonesian": 138
+    }
+  },
+  {
     "id": "1176444148824424514",
     "ник_на_сервере": "Ravi |",
     "тегнейм": "ravikxz",
@@ -8371,6 +8393,17 @@
     }
   },
   {
+    "id": "1264587445391855667",
+    "ник_на_сервере": "Zadboy",
+    "тегнейм": "zadboy1611",
+    "pfp": "https://cdn.discordapp.com/avatars/1264587445391855667/a83ec1ba8c698917b7bd984791987ea0.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🏠︱english": 59,
+      "🎨︱community-content": 4,
+      "🇻🇳︱vietnamese": 93
+    }
+  },
+  {
     "id": "1121693310864609310",
     "ник_на_сервере": "DESALT",
     "тегнейм": "desaltcrn",
@@ -8379,16 +8412,6 @@
       "🏠︱english": 129,
       "🎨︱community-content": 9,
       "🇳🇬︱nigerian": 18
-    }
-  },
-  {
-    "id": "1253674127173357622",
-    "ник_на_сервере": "repp",
-    "тегнейм": "rep0302",
-    "pfp": "https://cdn.discordapp.com/avatars/1253674127173357622/3f753c7066952256441e330a5fca2af2.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 18,
-      "🇮🇩︱indonesian": 137
     }
   },
   {
@@ -8421,17 +8444,6 @@
     "количество_сообщений_в_разных_каналах": {
       "🎨︱community-content": 5,
       "🇷🇺︱russian": 150
-    }
-  },
-  {
-    "id": "400735592201060357",
-    "ник_на_сервере": "K e n z",
-    "тегнейм": "0xkenz_",
-    "pfp": "https://cdn.discordapp.com/avatars/400735592201060357/5df147677fdd20dba7b9a0bc7c339eaf.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🇮🇩︱indonesian": 150,
-      "🏠︱english": 3,
-      "🎨︱community-content": 2
     }
   },
   {
@@ -8473,6 +8485,17 @@
       "🏠︱english": 36,
       "🎨︱community-content": 2,
       "🇻🇳︱vietnamese": 116
+    }
+  },
+  {
+    "id": "916784041628434482",
+    "ник_на_сервере": null,
+    "тегнейм": "wilfried25_",
+    "pfp": "https://cdn.discordapp.com/avatars/916784041628434482/eea0e47a859c0dbfe6c5396647a98e84.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🏠︱english": 6,
+      "🎨︱community-content": 7,
+      "🇮🇩︱indonesian": 141
     }
   },
   {
@@ -8873,17 +8896,6 @@
     "pfp": "https://cdn.discordapp.com/avatars/1089555594748379166/a3afec5754b6b50cb4840007f70241f1.png?size=128",
     "количество_сообщений_в_разных_каналах": {
       "🏠︱english": 143
-    }
-  },
-  {
-    "id": "916784041628434482",
-    "ник_на_сервере": null,
-    "тегнейм": "wilfried25_",
-    "pfp": "https://cdn.discordapp.com/avatars/916784041628434482/eea0e47a859c0dbfe6c5396647a98e84.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 6,
-      "🎨︱community-content": 5,
-      "🇮🇩︱indonesian": 132
     }
   },
   {
@@ -9322,6 +9334,29 @@
     }
   },
   {
+    "id": "750983404345884733",
+    "ник_на_сервере": "duli.88",
+    "тегнейм": "duli.88",
+    "pfp": "https://cdn.discordapp.com/avatars/750983404345884733/14ae35045c8b0eb565815c334bbaf452.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🏠︱english": 26,
+      "🇻🇳︱vietnamese": 104,
+      "🎨︱community-content": 1,
+      "🇯🇵︱japanese": 1
+    }
+  },
+  {
+    "id": "699659007681364189",
+    "ник_на_сервере": "victoren",
+    "тегнейм": "0xvictoren",
+    "pfp": "https://cdn.discordapp.com/avatars/699659007681364189/8951994fdd0043fad0c41fb35d80413f.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🏠︱english": 103,
+      "🎨︱community-content": 9,
+      "🇳🇬︱nigerian": 20
+    }
+  },
+  {
     "id": "932388029300092938",
     "ник_на_сервере": "Revvv",
     "тегнейм": "revv.eth",
@@ -9436,6 +9471,25 @@
     }
   },
   {
+    "id": "904999158988025866",
+    "ник_на_сервере": "Richie",
+    "тегнейм": "richie_3333",
+    "pfp": "https://cdn.discordapp.com/avatars/904999158988025866/f3b358057ebd531aee20ef9a86f11a88.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🏠︱english": 130
+    }
+  },
+  {
+    "id": "928405324522741822",
+    "ник_на_сервере": "s̴͌̀͌͑e̴͗̀͝͝ṕ̵̈́͝",
+    "тегнейм": "septian1",
+    "pfp": "https://cdn.discordapp.com/avatars/928405324522741822/9a7b0e4838a31297a93449f8eb6c80b9.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🏠︱english": 10,
+      "🇮🇩︱indonesian": 120
+    }
+  },
+  {
     "id": "1148111586624544789",
     "ник_на_сервере": "STAR SCREAM",
     "тегнейм": "0x_starscream",
@@ -9478,14 +9532,15 @@
     }
   },
   {
-    "id": "699659007681364189",
-    "ник_на_сервере": "victoren",
-    "тегнейм": "0xvictoren",
-    "pfp": "https://cdn.discordapp.com/avatars/699659007681364189/8951994fdd0043fad0c41fb35d80413f.png?size=128",
+    "id": "1342903692122259559",
+    "ник_на_сервере": "ꕶᴘᴇᴇᴅᴏ !!",
+    "тегнейм": "speedoweb3",
+    "pfp": "https://cdn.discordapp.com/avatars/1342903692122259559/09279bb725f1c87c1390b6b51fe0be4b.png?size=128",
     "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 103,
-      "🎨︱community-content": 8,
-      "🇳🇬︱nigerian": 18
+      "🏠︱english": 30,
+      "🎨︱community-content": 2,
+      "🇮🇳︱indian": 95,
+      "🇧🇩︱bangladeshi": 2
     }
   },
   {
@@ -9573,18 +9628,6 @@
     }
   },
   {
-    "id": "1342903692122259559",
-    "ник_на_сервере": "ꕶᴘᴇᴇᴅᴏ !!",
-    "тегнейм": "speedoweb3",
-    "pfp": "https://cdn.discordapp.com/avatars/1342903692122259559/09279bb725f1c87c1390b6b51fe0be4b.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 30,
-      "🎨︱community-content": 2,
-      "🇮🇳︱indian": 95,
-      "🇧🇩︱bangladeshi": 1
-    }
-  },
-  {
     "id": "1291600212070109296",
     "ник_на_сервере": null,
     "тегнейм": "anikspider",
@@ -9606,15 +9649,6 @@
     }
   },
   {
-    "id": "904999158988025866",
-    "ник_на_сервере": "Richie",
-    "тегнейм": "richie_3333",
-    "pfp": "https://cdn.discordapp.com/avatars/904999158988025866/f3b358057ebd531aee20ef9a86f11a88.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 127
-    }
-  },
-  {
     "id": "1302071031036510299",
     "ник_на_сервере": "thanhle131211",
     "тегнейм": "thanhle131211",
@@ -9622,16 +9656,6 @@
     "количество_сообщений_в_разных_каналах": {
       "🏠︱english": 27,
       "🇻🇳︱vietnamese": 100
-    }
-  },
-  {
-    "id": "928405324522741822",
-    "ник_на_сервере": "s̴͌̀͌͑e̴͗̀͝͝ṕ̵̈́͝",
-    "тегнейм": "septian1",
-    "pfp": "https://cdn.discordapp.com/avatars/928405324522741822/9a7b0e4838a31297a93449f8eb6c80b9.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 10,
-      "🇮🇩︱indonesian": 117
     }
   },
   {
@@ -9705,18 +9729,6 @@
       "🏠︱english": 3,
       "🎨︱community-content": 1,
       "🇻🇳︱vietnamese": 122
-    }
-  },
-  {
-    "id": "750983404345884733",
-    "ник_на_сервере": "duli.88",
-    "тегнейм": "duli.88",
-    "pfp": "https://cdn.discordapp.com/avatars/750983404345884733/14ae35045c8b0eb565815c334bbaf452.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 26,
-      "🇻🇳︱vietnamese": 97,
-      "🎨︱community-content": 1,
-      "🇯🇵︱japanese": 1
     }
   },
   {
@@ -9831,6 +9843,16 @@
       "🏠︱english": 45,
       "🎨︱community-content": 3,
       "🇮🇩︱indonesian": 76
+    }
+  },
+  {
+    "id": "1303228021959950419",
+    "ник_на_сервере": "𝐆 𝐎 𝐊 𝐔",
+    "тегнейм": "songoku230",
+    "pfp": "https://cdn.discordapp.com/avatars/1303228021959950419/73e14c9b17063d71357773dcc3c3a06b.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🏠︱english": 57,
+      "🇮🇳︱indian": 66
     }
   },
   {
@@ -10095,16 +10117,6 @@
     }
   },
   {
-    "id": "1303228021959950419",
-    "ник_на_сервере": "𝐆 𝐎 𝐊 𝐔",
-    "тегнейм": "songoku230",
-    "pfp": "https://cdn.discordapp.com/avatars/1303228021959950419/73e14c9b17063d71357773dcc3c3a06b.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 57,
-      "🇮🇳︱indian": 61
-    }
-  },
-  {
     "id": "1217782916478931044",
     "ник_на_сервере": "Vag",
     "тегнейм": "kruot2",
@@ -10331,6 +10343,16 @@
     }
   },
   {
+    "id": "1146410336388382801",
+    "ник_на_сервере": "Blossom",
+    "тегнейм": "rahul344_41060",
+    "pfp": "https://cdn.discordapp.com/avatars/1146410336388382801/08a7defde0a2fd288319f33f26f8b15f.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🏠︱english": 99,
+      "🇮🇳︱indian": 15
+    }
+  },
+  {
     "id": "1189622125846343770",
     "ник_на_сервере": null,
     "тегнейм": "ihor_hammi",
@@ -10435,6 +10457,16 @@
     }
   },
   {
+    "id": "1376214838665023540",
+    "ник_на_сервере": "ehe 🧠 Satsume OSHIT",
+    "тегнейм": "areyousickofthecrying",
+    "pfp": "https://cdn.discordapp.com/avatars/1376214838665023540/1b58fc2f1872cd93df1ec1d798c0c2ef.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🏠︱english": 1,
+      "🇮🇩︱indonesian": 112
+    }
+  },
+  {
     "id": "1261696148331302924",
     "ник_на_сервере": null,
     "тегнейм": "evikrant",
@@ -10516,16 +10548,6 @@
       "🏠︱english": 11,
       "🎨︱community-content": 1,
       "🇮🇩︱indonesian": 100
-    }
-  },
-  {
-    "id": "1376214838665023540",
-    "ник_на_сервере": "ehe 🧠 Satsume OSHIT",
-    "тегнейм": "areyousickofthecrying",
-    "pfp": "https://cdn.discordapp.com/avatars/1376214838665023540/1b58fc2f1872cd93df1ec1d798c0c2ef.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 1,
-      "🇮🇩︱indonesian": 111
     }
   },
   {
@@ -10631,13 +10653,14 @@
     }
   },
   {
-    "id": "1146410336388382801",
-    "ник_на_сервере": "Blossom",
-    "тегнейм": "rahul344_41060",
-    "pfp": "https://cdn.discordapp.com/avatars/1146410336388382801/08a7defde0a2fd288319f33f26f8b15f.png?size=128",
+    "id": "882966997321789480",
+    "ник_на_сервере": "seven7橘子 ./",
+    "тегнейм": "seven7ganglabs",
+    "pfp": "https://cdn.discordapp.com/avatars/882966997321789480/048b3fecde0c19cb7c33813bfcad415c.png?size=128",
     "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 97,
-      "🇮🇳︱indian": 13
+      "🏠︱english": 17,
+      "🎨︱community-content": 2,
+      "🇨🇳︱chinese": 91
     }
   },
   {
@@ -10822,17 +10845,6 @@
     }
   },
   {
-    "id": "882966997321789480",
-    "ник_на_сервере": "seven7橘子 ./",
-    "тегнейм": "seven7ganglabs",
-    "pfp": "https://cdn.discordapp.com/avatars/882966997321789480/048b3fecde0c19cb7c33813bfcad415c.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 14,
-      "🎨︱community-content": 2,
-      "🇨🇳︱chinese": 91
-    }
-  },
-  {
     "id": "1082608850873626665",
     "ник_на_сервере": "archangel",
     "тегнейм": "archangel5360",
@@ -10957,6 +10969,15 @@
     }
   },
   {
+    "id": "1260222863282143284",
+    "ник_на_сервере": "VK-18  | KING",
+    "тегнейм": "vrcaptain1119_97020",
+    "pfp": "https://cdn.discordapp.com/avatars/1260222863282143284/9c6e02ba4303c9276e679ff048ee3aad.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🇮🇳︱indian": 105
+    }
+  },
+  {
     "id": "950995854699954186",
     "ник_на_сервере": "555",
     "тегнейм": "3soanh",
@@ -11059,15 +11080,6 @@
       "🏠︱english": 6,
       "🎨︱community-content": 8,
       "🇨🇳︱chinese": 90
-    }
-  },
-  {
-    "id": "1260222863282143284",
-    "ник_на_сервере": "VK-18  | KING",
-    "тегнейм": "vrcaptain1119_97020",
-    "pfp": "https://cdn.discordapp.com/avatars/1260222863282143284/9c6e02ba4303c9276e679ff048ee3aad.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🇮🇳︱indian": 104
     }
   },
   {
@@ -11370,6 +11382,15 @@
     }
   },
   {
+    "id": "1317221360153395291",
+    "ник_на_сервере": "LUCARIO",
+    "тегнейм": "vrcrypto1119",
+    "pfp": "https://cdn.discordapp.com/avatars/1317221360153395291/18ed0039a039860b194c51f0056352ff.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🇮🇳︱indian": 99
+    }
+  },
+  {
     "id": "1409580306582732982",
     "ник_на_сервере": "Gitcord",
     "тегнейм": "Gitcord#7730",
@@ -11447,15 +11468,6 @@
     "количество_сообщений_в_разных_каналах": {
       "🎨︱community-content": 2,
       "🇻🇳︱vietnamese": 96
-    }
-  },
-  {
-    "id": "1317221360153395291",
-    "ник_на_сервере": "LUCARIO",
-    "тегнейм": "vrcrypto1119",
-    "pfp": "https://cdn.discordapp.com/avatars/1317221360153395291/18ed0039a039860b194c51f0056352ff.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🇮🇳︱indian": 98
     }
   },
   {
@@ -11624,6 +11636,16 @@
     }
   },
   {
+    "id": "885013809457143848",
+    "ник_на_сервере": "B-Art",
+    "тегнейм": "inisialmf",
+    "pfp": "https://cdn.discordapp.com/avatars/885013809457143848/d73edcca910d8a2ac0a2b447c4f8c402.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🏠︱english": 80,
+      "🇮🇩︱indonesian": 15
+    }
+  },
+  {
     "id": "951689643303247932",
     "ник_на_сервере": "singularity 66",
     "тегнейм": "singularity66",
@@ -11683,16 +11705,6 @@
     "количество_сообщений_в_разных_каналах": {
       "🏠︱english": 1,
       "🇻🇳︱vietnamese": 94
-    }
-  },
-  {
-    "id": "885013809457143848",
-    "ник_на_сервере": "B-Art",
-    "тегнейм": "inisialmf",
-    "pfp": "https://cdn.discordapp.com/avatars/885013809457143848/d73edcca910d8a2ac0a2b447c4f8c402.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 80,
-      "🇮🇩︱indonesian": 14
     }
   },
   {
@@ -12039,17 +12051,6 @@
     "pfp": "https://cdn.discordapp.com/avatars/1122776611201224824/6cf13e15dd964e4d2bc17d8286dcc67b.png?size=128",
     "количество_сообщений_в_разных_каналах": {
       "🏠︱english": 90
-    }
-  },
-  {
-    "id": "1264587445391855667",
-    "ник_на_сервере": "Zadboy",
-    "тегнейм": "zadboy1611",
-    "pfp": "https://cdn.discordapp.com/avatars/1264587445391855667/a83ec1ba8c698917b7bd984791987ea0.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 45,
-      "🎨︱community-content": 3,
-      "🇻🇳︱vietnamese": 42
     }
   },
   {
@@ -12867,6 +12868,16 @@
     }
   },
   {
+    "id": "384160715801493524",
+    "ник_на_сервере": "Exsild",
+    "тегнейм": "exsild",
+    "pfp": "https://cdn.discordapp.com/avatars/384160715801493524/9d9e197d98df3b69497f51211d431050.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🏠︱english": 4,
+      "🇮🇩︱indonesian": 76
+    }
+  },
+  {
     "id": "968870873140441119",
     "ник_на_сервере": "Viet",
     "тегнейм": "0xvietnguyen",
@@ -13112,6 +13123,16 @@
     }
   },
   {
+    "id": "1214643832356868167",
+    "ник_на_сервере": "Tremolo",
+    "тегнейм": "0xtremolo",
+    "pfp": "https://cdn.discordapp.com/avatars/1214643832356868167/a0fd55e9d202633381a0e217dedac57e.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🏠︱english": 2,
+      "🇮🇩︱indonesian": 75
+    }
+  },
+  {
     "id": "873540130516918272",
     "ник_на_сервере": "Arzhel🪁(❖,❖)",
     "тегнейм": "arzhelalira",
@@ -13196,6 +13217,16 @@
     "pfp": "https://cdn.discordapp.com/avatars/1221181209179066441/a0f72bce3ac9a74530b5a9d3c1d87a14.png?size=128",
     "количество_сообщений_в_разных_каналах": {
       "🇮🇩︱indonesian": 77
+    }
+  },
+  {
+    "id": "367691732545961989",
+    "ник_на_сервере": null,
+    "тегнейм": "silincahyovie",
+    "pfp": "https://cdn.discordapp.com/avatars/367691732545961989/4d21c4ad3d8e74d0e1efd03d943a0a12.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🏠︱english": 8,
+      "🇮🇩︱indonesian": 69
     }
   },
   {
@@ -13445,6 +13476,16 @@
     }
   },
   {
+    "id": "563044099763077125",
+    "ник_на_сервере": "yanstzy",
+    "тегнейм": "yanuarsa14",
+    "pfp": "https://cdn.discordapp.com/avatars/563044099763077125/24e95ba433ff02d36994fc406af13762.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🏠︱english": 18,
+      "🇮🇩︱indonesian": 55
+    }
+  },
+  {
     "id": "1211369957989023805",
     "ник_на_сервере": "Rishabh",
     "тегнейм": "rishabh04940",
@@ -13557,16 +13598,6 @@
     }
   },
   {
-    "id": "1214643832356868167",
-    "ник_на_сервере": "Tremolo",
-    "тегнейм": "0xtremolo",
-    "pfp": "https://cdn.discordapp.com/avatars/1214643832356868167/a0fd55e9d202633381a0e217dedac57e.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 2,
-      "🇮🇩︱indonesian": 70
-    }
-  },
-  {
     "id": "1066669874371383357",
     "ник_на_сервере": "aditya302",
     "тегнейм": "aditya852",
@@ -13603,16 +13634,6 @@
     "количество_сообщений_в_разных_каналах": {
       "🏠︱english": 71,
       "🇳🇬︱nigerian": 1
-    }
-  },
-  {
-    "id": "367691732545961989",
-    "ник_на_сервере": null,
-    "тегнейм": "silincahyovie",
-    "pfp": "https://cdn.discordapp.com/avatars/367691732545961989/4d21c4ad3d8e74d0e1efd03d943a0a12.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 8,
-      "🇮🇩︱indonesian": 64
     }
   },
   {
@@ -13654,6 +13675,16 @@
     "количество_сообщений_в_разных_каналах": {
       "🏠︱english": 1,
       "🇮🇩︱indonesian": 70
+    }
+  },
+  {
+    "id": "1289931431887245473",
+    "ник_на_сервере": "Tedy",
+    "тегнейм": "tedyk1",
+    "pfp": "https://cdn.discordapp.com/avatars/1289931431887245473/79a7b951a996c4aff244bbe7fb2a14db.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🏠︱english": 10,
+      "🇮🇩︱indonesian": 61
     }
   },
   {
@@ -13736,16 +13767,6 @@
     }
   },
   {
-    "id": "563044099763077125",
-    "ник_на_сервере": "yanstzy",
-    "тегнейм": "yanuarsa14",
-    "pfp": "https://cdn.discordapp.com/avatars/563044099763077125/24e95ba433ff02d36994fc406af13762.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 18,
-      "🇮🇩︱indonesian": 52
-    }
-  },
-  {
     "id": "392987489184251905",
     "ник_на_сервере": null,
     "тегнейм": "muladi12",
@@ -13785,16 +13806,6 @@
       "🏠︱english": 17,
       "🎨︱community-content": 2,
       "🇷🇺︱russian": 51
-    }
-  },
-  {
-    "id": "1289931431887245473",
-    "ник_на_сервере": "Tedy",
-    "тегнейм": "tedyk1",
-    "pfp": "https://cdn.discordapp.com/avatars/1289931431887245473/79a7b951a996c4aff244bbe7fb2a14db.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 10,
-      "🇮🇩︱indonesian": 60
     }
   },
   {
@@ -13888,6 +13899,16 @@
     "количество_сообщений_в_разных_каналах": {
       "🏠︱english": 19,
       "🇷🇺︱russian": 51
+    }
+  },
+  {
+    "id": "437788844310528010",
+    "ник_на_сервере": "YoiioY",
+    "тегнейм": "yoiioy",
+    "pfp": "https://cdn.discordapp.com/avatars/437788844310528010/dd617731a769b2e7ebd2c64c7ee250ae.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🏠︱english": 10,
+      "🇮🇩︱indonesian": 59
     }
   },
   {
@@ -13993,16 +14014,6 @@
     }
   },
   {
-    "id": "384160715801493524",
-    "ник_на_сервере": "Exsild",
-    "тегнейм": "exsild",
-    "pfp": "https://cdn.discordapp.com/avatars/384160715801493524/9d9e197d98df3b69497f51211d431050.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 4,
-      "🇮🇩︱indonesian": 65
-    }
-  },
-  {
     "id": "1170366188589678663",
     "ник_на_сервере": "Arazka",
     "тегнейм": "arrazka.",
@@ -14020,16 +14031,6 @@
     "количество_сообщений_в_разных_каналах": {
       "🏠︱english": 9,
       "🇮🇩︱indonesian": 59
-    }
-  },
-  {
-    "id": "437788844310528010",
-    "ник_на_сервере": "YoiioY",
-    "тегнейм": "yoiioy",
-    "pfp": "https://cdn.discordapp.com/avatars/437788844310528010/dd617731a769b2e7ebd2c64c7ee250ae.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 10,
-      "🇮🇩︱indonesian": 58
     }
   },
   {
@@ -14253,6 +14254,16 @@
       "🏠︱english": 17,
       "🎨︱community-content": 1,
       "🇻🇳︱vietnamese": 49
+    }
+  },
+  {
+    "id": "879601620248297472",
+    "ник_на_сервере": "Jia",
+    "тегнейм": "jiabtc",
+    "pfp": "https://cdn.discordapp.com/avatars/879601620248297472/8c8918dfd6844a22119e545d46f04c3e.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🇻🇳︱vietnamese": 60,
+      "🏠︱english": 7
     }
   },
   {
@@ -14668,6 +14679,16 @@
     }
   },
   {
+    "id": "1150609339736932462",
+    "ник_на_сервере": null,
+    "тегнейм": "dfxyz69",
+    "pfp": "https://cdn.discordapp.com/avatars/1150609339736932462/d6c410be679c8f14deaf5493b050720c.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🏠︱english": 1,
+      "🇮🇩︱indonesian": 63
+    }
+  },
+  {
     "id": "1032276786190483497",
     "ник_на_сервере": "HYPER07",
     "тегнейм": "islea_eth",
@@ -14775,16 +14796,6 @@
     }
   },
   {
-    "id": "1150609339736932462",
-    "ник_на_сервере": null,
-    "тегнейм": "dfxyz69",
-    "pfp": "https://cdn.discordapp.com/avatars/1150609339736932462/d6c410be679c8f14deaf5493b050720c.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 1,
-      "🇮🇩︱indonesian": 62
-    }
-  },
-  {
     "id": "367702523152171011",
     "ник_на_сервере": "ERENG YEGAH",
     "тегнейм": "ihsankisan",
@@ -14811,6 +14822,16 @@
     "pfp": "https://cdn.discordapp.com/avatars/908610075772473346/5bb64295c35a2b078570681fc7376f1c.png?size=128",
     "количество_сообщений_в_разных_каналах": {
       "🏠︱english": 62
+    }
+  },
+  {
+    "id": "1255163193051844628",
+    "ник_на_сервере": "Khang Qhiw",
+    "тегнейм": "ceqih",
+    "pfp": "https://cdn.discordapp.com/avatars/1255163193051844628/4d6f0d3db60551f9bbdd15ac3d9d1ad9.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🏠︱english": 3,
+      "🇮🇩︱indonesian": 59
     }
   },
   {
@@ -14902,16 +14923,6 @@
     }
   },
   {
-    "id": "1255163193051844628",
-    "ник_на_сервере": "Khang Qhiw",
-    "тегнейм": "ceqih",
-    "pfp": "https://cdn.discordapp.com/avatars/1255163193051844628/4d6f0d3db60551f9bbdd15ac3d9d1ad9.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 3,
-      "🇮🇩︱indonesian": 58
-    }
-  },
-  {
     "id": "1143945205012254750",
     "ник_на_сервере": "JIM",
     "тегнейм": "moshahid.",
@@ -14958,16 +14969,6 @@
     "pfp": "https://cdn.discordapp.com/avatars/1038300788272922677/19ae82afb7ca05b52572fd984a13b373.png?size=128",
     "количество_сообщений_в_разных_каналах": {
       "🇨🇳︱chinese": 61
-    }
-  },
-  {
-    "id": "879601620248297472",
-    "ник_на_сервере": "Jia",
-    "тегнейм": "jiabtc",
-    "pfp": "https://cdn.discordapp.com/avatars/879601620248297472/8c8918dfd6844a22119e545d46f04c3e.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🇻🇳︱vietnamese": 54,
-      "🏠︱english": 7
     }
   },
   {
@@ -15027,6 +15028,17 @@
     "количество_сообщений_в_разных_каналах": {
       "🏠︱english": 22,
       "🇮🇩︱indonesian": 38
+    }
+  },
+  {
+    "id": "859868018129109072",
+    "ник_на_сервере": "Chimil418",
+    "тегнейм": "chimil418",
+    "pfp": "https://cdn.discordapp.com/avatars/859868018129109072/e3341eccea39b12a8e1cd16cdab42a99.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🏠︱english": 5,
+      "🎨︱community-content": 2,
+      "🇮🇩︱indonesian": 53
     }
   },
   {
@@ -15146,6 +15158,15 @@
       "🏠︱english": 2,
       "🎨︱community-content": 2,
       "🇷🇺︱russian": 56
+    }
+  },
+  {
+    "id": "591300900291739669",
+    "ник_на_сервере": "αzαzєℓ",
+    "тегнейм": "azazex_",
+    "pfp": "https://cdn.discordapp.com/avatars/591300900291739669/d990007676cd89e2e178c11674554d1e.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🏠︱english": 59
     }
   },
   {
@@ -15331,15 +15352,6 @@
     }
   },
   {
-    "id": "591300900291739669",
-    "ник_на_сервере": "αzαzєℓ",
-    "тегнейм": "azazex_",
-    "pfp": "https://cdn.discordapp.com/avatars/591300900291739669/d990007676cd89e2e178c11674554d1e.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 58
-    }
-  },
-  {
     "id": "1354176539666809096",
     "ник_на_сервере": "icalf",
     "тегнейм": "iclf_",
@@ -15487,6 +15499,16 @@
     "количество_сообщений_в_разных_каналах": {
       "🏠︱english": 56,
       "🎨︱community-content": 1
+    }
+  },
+  {
+    "id": "1101900708955037727",
+    "ник_на_сервере": "eclips8215",
+    "тегнейм": "eclips8215",
+    "pfp": "https://cdn.discordapp.com/avatars/1101900708955037727/44c713fd660a65098ad1b6721c1a452a.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🏠︱english": 29,
+      "🇨🇳︱chinese": 28
     }
   },
   {
@@ -15694,16 +15716,6 @@
     "количество_сообщений_в_разных_каналах": {
       "🏠︱english": 4,
       "🇺🇦︱ukrainian": 52
-    }
-  },
-  {
-    "id": "1101900708955037727",
-    "ник_на_сервере": "eclips8215",
-    "тегнейм": "eclips8215",
-    "pfp": "https://cdn.discordapp.com/avatars/1101900708955037727/44c713fd660a65098ad1b6721c1a452a.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 28,
-      "🇨🇳︱chinese": 28
     }
   },
   {
@@ -16257,6 +16269,15 @@
     }
   },
   {
+    "id": "498486381161611265",
+    "ник_на_сервере": "S H Ξ N²⁶ |89|",
+    "тегнейм": "1btc.eth",
+    "pfp": "https://cdn.discordapp.com/avatars/498486381161611265/66ddb255c8e0fff5b5fcf4ee04dcb526.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🇻🇳︱vietnamese": 53
+    }
+  },
+  {
     "id": "696987275078270987",
     "ник_на_сервере": "SEN JU",
     "тегнейм": "senjueth",
@@ -16372,6 +16393,17 @@
     "количество_сообщений_в_разных_каналах": {
       "🏠︱english": 28,
       "🇳🇬︱nigerian": 24
+    }
+  },
+  {
+    "id": "984005175322755123",
+    "ник_на_сервере": "Sylvan Ray ⚡",
+    "тегнейм": "sylvan48",
+    "pfp": "https://cdn.discordapp.com/avatars/984005175322755123/d094512d3b544ef3e9ef55a509dccedb.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🏠︱english": 6,
+      "🎨︱community-content": 4,
+      "🇻🇳︱vietnamese": 42
     }
   },
   {
@@ -16742,17 +16774,6 @@
     }
   },
   {
-    "id": "859868018129109072",
-    "ник_на_сервере": "Chimil418",
-    "тегнейм": "chimil418",
-    "pfp": "https://cdn.discordapp.com/avatars/859868018129109072/e3341eccea39b12a8e1cd16cdab42a99.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 5,
-      "🎨︱community-content": 2,
-      "🇮🇩︱indonesian": 43
-    }
-  },
-  {
     "id": "949007530263183360",
     "ник_на_сервере": "Shobar2351",
     "тегнейм": "shobar2351",
@@ -16874,12 +16895,31 @@
     }
   },
   {
+    "id": "997190793519439882",
+    "ник_на_сервере": "KIPITHRIL_",
+    "тегнейм": "kipithril_",
+    "pfp": "https://cdn.discordapp.com/avatars/997190793519439882/4b44e656723d932270cf5e7af7ff1be9.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🇮🇩︱indonesian": 50
+    }
+  },
+  {
     "id": "906516496627408916",
     "ник_на_сервере": "Gèm_séx",
     "тегнейм": "0xdzie",
     "pfp": "https://cdn.discordapp.com/avatars/906516496627408916/34c9404e65070c290cb7a91ad9f63913.png?size=128",
     "количество_сообщений_в_разных_каналах": {
       "🇮🇩︱indonesian": 50
+    }
+  },
+  {
+    "id": "1072879887448289481",
+    "ник_на_сервере": "Rakesh12  (❖,❖)",
+    "тегнейм": "perfect1222",
+    "pfp": "https://cdn.discordapp.com/avatars/1072879887448289481/a3198a1c880ebb7a8d2d86e3480fa195.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🏠︱english": 48,
+      "🎨︱community-content": 1
     }
   },
   {
@@ -17120,6 +17160,15 @@
     }
   },
   {
+    "id": "1107291494571839541",
+    "ник_на_сервере": null,
+    "тегнейм": "cryptokha",
+    "pfp": "https://cdn.discordapp.com/avatars/1107291494571839541/cbc00c2e3c7869713254b84bf0655f28.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🇺🇦︱ukrainian": 49
+    }
+  },
+  {
     "id": "504226924957138944",
     "ник_на_сервере": "Putra1089",
     "тегнейм": "putra1089",
@@ -17127,16 +17176,6 @@
     "количество_сообщений_в_разных_каналах": {
       "🏠︱english": 10,
       "🇮🇩︱indonesian": 38
-    }
-  },
-  {
-    "id": "1072879887448289481",
-    "ник_на_сервере": "Rakesh12  (❖,❖)",
-    "тегнейм": "perfect1222",
-    "pfp": "https://cdn.discordapp.com/avatars/1072879887448289481/a3198a1c880ebb7a8d2d86e3480fa195.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 47,
-      "🎨︱community-content": 1
     }
   },
   {
@@ -17529,12 +17568,13 @@
     }
   },
   {
-    "id": "1107291494571839541",
+    "id": "777396600930172972",
     "ник_на_сервере": null,
-    "тегнейм": "cryptokha",
-    "pfp": "https://cdn.discordapp.com/avatars/1107291494571839541/cbc00c2e3c7869713254b84bf0655f28.png?size=128",
+    "тегнейм": "tabgnuh",
+    "pfp": "https://cdn.discordapp.com/avatars/777396600930172972/9d90c44f050c63c65ac96c979fcfd566.png?size=128",
     "количество_сообщений_в_разных_каналах": {
-      "🇺🇦︱ukrainian": 47
+      "🇻🇳︱vietnamese": 46,
+      "🎨︱community-content": 1
     }
   },
   {
@@ -17981,16 +18021,6 @@
     "pfp": "https://cdn.discordapp.com/avatars/865109145836716043/c366d670463260c89bfcd6743b7a53bd.png?size=128",
     "количество_сообщений_в_разных_каналах": {
       "🇮🇩︱indonesian": 45
-    }
-  },
-  {
-    "id": "777396600930172972",
-    "ник_на_сервере": null,
-    "тегнейм": "tabgnuh",
-    "pfp": "https://cdn.discordapp.com/avatars/777396600930172972/9d90c44f050c63c65ac96c979fcfd566.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🇻🇳︱vietnamese": 44,
-      "🎨︱community-content": 1
     }
   },
   {
@@ -18587,6 +18617,16 @@
     }
   },
   {
+    "id": "979183515096723506",
+    "ник_на_сервере": "souloftheundead",
+    "тегнейм": "souloftheundead",
+    "pfp": "https://cdn.discordapp.com/avatars/979183515096723506/9fb252262526b6f3e73979d63bebdfad.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🏠︱english": 41,
+      "🎨︱community-content": 1
+    }
+  },
+  {
     "id": "1201769172821102642",
     "ник_на_сервере": "Zeus",
     "тегнейм": "zeusbuddy",
@@ -18823,16 +18863,6 @@
     "количество_сообщений_в_разных_каналах": {
       "🏠︱english": 36,
       "🇮🇳︱indian": 5
-    }
-  },
-  {
-    "id": "979183515096723506",
-    "ник_на_сервере": "souloftheundead",
-    "тегнейм": "souloftheundead",
-    "pfp": "https://cdn.discordapp.com/avatars/979183515096723506/9fb252262526b6f3e73979d63bebdfad.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 40,
-      "🎨︱community-content": 1
     }
   },
   {
@@ -19380,17 +19410,6 @@
     }
   },
   {
-    "id": "984005175322755123",
-    "ник_на_сервере": "Sylvan Ray ⚡",
-    "тегнейм": "sylvan48",
-    "pfp": "https://cdn.discordapp.com/avatars/984005175322755123/d094512d3b544ef3e9ef55a509dccedb.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 6,
-      "🎨︱community-content": 3,
-      "🇻🇳︱vietnamese": 30
-    }
-  },
-  {
     "id": "1071778073290231949",
     "ник_на_сервере": "mikecopper",
     "тегнейм": "mikecopper.",
@@ -19856,12 +19875,32 @@
     }
   },
   {
+    "id": "856827176569012254",
+    "ник_на_сервере": "ShiKi",
+    "тегнейм": "shikinoken",
+    "pfp": "https://cdn.discordapp.com/avatars/856827176569012254/745101d65de8296d031d9bd2530906e5.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🇻🇳︱vietnamese": 16,
+      "🏠︱english": 21,
+      "🎨︱community-content": 1
+    }
+  },
+  {
     "id": "795551530727505953",
     "ник_на_сервере": null,
     "тегнейм": "nobodyvn",
     "pfp": "https://cdn.discordapp.com/avatars/795551530727505953/83f4531bff26d9200a6158d48dadc965.png?size=128",
     "количество_сообщений_в_разных_каналах": {
       "🇻🇳︱vietnamese": 38
+    }
+  },
+  {
+    "id": "707957277440868483",
+    "ник_на_сервере": "Samuel",
+    "тегнейм": "samnvendr",
+    "pfp": "https://cdn.discordapp.com/avatars/707957277440868483/ceae1238d5f9459ecc0e9e449ffd3ee5.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🇮🇩︱indonesian": 38
     }
   },
   {
@@ -20150,17 +20189,6 @@
     }
   },
   {
-    "id": "856827176569012254",
-    "ник_на_сервере": "ShiKi",
-    "тегнейм": "shikinoken",
-    "pfp": "https://cdn.discordapp.com/avatars/856827176569012254/745101d65de8296d031d9bd2530906e5.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🇻🇳︱vietnamese": 16,
-      "🏠︱english": 20,
-      "🎨︱community-content": 1
-    }
-  },
-  {
     "id": "930193497242370049",
     "ник_на_сервере": "Vasyl_Belyi",
     "тегнейм": "vasyl_beliy",
@@ -20179,21 +20207,23 @@
     }
   },
   {
-    "id": "707957277440868483",
-    "ник_на_сервере": "Samuel",
-    "тегнейм": "samnvendr",
-    "pfp": "https://cdn.discordapp.com/avatars/707957277440868483/ceae1238d5f9459ecc0e9e449ffd3ee5.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🇮🇩︱indonesian": 37
-    }
-  },
-  {
     "id": "1277924959540351034",
     "ник_на_сервере": "Fadel14",
     "тегнейм": "fadel14.",
     "pfp": "https://cdn.discordapp.com/avatars/1277924959540351034/5d0349d988fa1b180aed1da7d56cafc9.png?size=128",
     "количество_сообщений_в_разных_каналах": {
       "🇮🇩︱indonesian": 37
+    }
+  },
+  {
+    "id": "1032322809013223554",
+    "ник_на_сервере": "PakHans🌀",
+    "тегнейм": "pakhans90",
+    "pfp": "https://cdn.discordapp.com/avatars/1032322809013223554/93144f2db5efa134fdd165d409633914.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🏠︱english": 15,
+      "🎨︱community-content": 1,
+      "🇮🇩︱indonesian": 20
     }
   },
   {
@@ -20304,6 +20334,17 @@
       "🏠︱english": 34,
       "🎨︱community-content": 1,
       "🇳🇬︱nigerian": 1
+    }
+  },
+  {
+    "id": "889953310164013077",
+    "ник_на_сервере": "Derry💕(❖,❖)",
+    "тегнейм": "derry2223",
+    "pfp": "https://cdn.discordapp.com/avatars/889953310164013077/29aad24c1550ef0242beda95f378a3ae.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🏠︱english": 29,
+      "🇳🇬︱nigerian": 5,
+      "🇮🇩︱indonesian": 2
     }
   },
   {
@@ -20455,17 +20496,6 @@
     }
   },
   {
-    "id": "1032322809013223554",
-    "ник_на_сервере": "PakHans🌀",
-    "тегнейм": "pakhans90",
-    "pfp": "https://cdn.discordapp.com/avatars/1032322809013223554/93144f2db5efa134fdd165d409633914.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 15,
-      "🎨︱community-content": 1,
-      "🇮🇩︱indonesian": 19
-    }
-  },
-  {
     "id": "897335431270649888",
     "ник_на_сервере": "cumaRIEE",
     "тегнейм": "cumariee",
@@ -20561,17 +20591,6 @@
     "количество_сообщений_в_разных_каналах": {
       "🏠︱english": 2,
       "🇳🇬︱nigerian": 33
-    }
-  },
-  {
-    "id": "889953310164013077",
-    "ник_на_сервере": "Derry💕(❖,❖)",
-    "тегнейм": "derry2223",
-    "pfp": "https://cdn.discordapp.com/avatars/889953310164013077/29aad24c1550ef0242beda95f378a3ae.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 29,
-      "🇳🇬︱nigerian": 4,
-      "🇮🇩︱indonesian": 2
     }
   },
   {
@@ -21224,6 +21243,16 @@
     }
   },
   {
+    "id": "699766037327118436",
+    "ник_на_сервере": "Vovulopu",
+    "тегнейм": "bloblo22",
+    "pfp": "https://cdn.discordapp.com/avatars/699766037327118436/fd34ce818030947ddea838f64209a806.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🏠︱english": 13,
+      "🇮🇩︱indonesian": 20
+    }
+  },
+  {
     "id": "793461718764355584",
     "ник_на_сервере": "Doraemon",
     "тегнейм": "0xdoraemon",
@@ -21534,16 +21563,6 @@
     "pfp": "https://cdn.discordapp.com/avatars/1119637022928273460/570778d2878731af9185e19d61a4888f.png?size=128",
     "количество_сообщений_в_разных_каналах": {
       "🏠︱english": 32
-    }
-  },
-  {
-    "id": "699766037327118436",
-    "ник_на_сервере": "Vovulopu",
-    "тегнейм": "bloblo22",
-    "pfp": "https://cdn.discordapp.com/avatars/699766037327118436/fd34ce818030947ddea838f64209a806.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 13,
-      "🇮🇩︱indonesian": 19
     }
   },
   {
@@ -22552,6 +22571,15 @@
     "pfp": "https://cdn.discordapp.com/avatars/772345035492294667/a748ada5fa0c58a85d84e45ef79d3dde.png?size=128",
     "количество_сообщений_в_разных_каналах": {
       "🇨🇳︱chinese": 30
+    }
+  },
+  {
+    "id": "1268578974376661034",
+    "ник_на_сервере": "Alexa",
+    "тегнейм": "alexa_uye",
+    "pfp": "https://cdn.discordapp.com/avatars/1268578974376661034/c8a617bf4f919e4db607aa8fd392fe69.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🇮🇩︱indonesian": 30
     }
   },
   {
@@ -23745,12 +23773,13 @@
     }
   },
   {
-    "id": "1268578974376661034",
-    "ник_на_сервере": "Alexa",
-    "тегнейм": "alexa_uye",
-    "pfp": "https://cdn.discordapp.com/avatars/1268578974376661034/c8a617bf4f919e4db607aa8fd392fe69.png?size=128",
+    "id": "969725751060496394",
+    "ник_на_сервере": "Blackclef",
+    "тегнейм": ".johhnyk",
+    "pfp": "https://cdn.discordapp.com/avatars/969725751060496394/704777c61f606fa4976457d82ab3462a.png?size=128",
     "количество_сообщений_в_разных_каналах": {
-      "🇮🇩︱indonesian": 27
+      "🏠︱english": 6,
+      "🇳🇬︱nigerian": 20
     }
   },
   {
@@ -24295,6 +24324,16 @@
     }
   },
   {
+    "id": "1169178762110304311",
+    "ник_на_сервере": "Son Goku lagi kacau",
+    "тегнейм": "fernann_45496",
+    "pfp": "https://cdn.discordapp.com/avatars/1169178762110304311/235d94fab2cadef1794da29481a1cd40.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🏠︱english": 11,
+      "🇮🇩︱indonesian": 14
+    }
+  },
+  {
     "id": "1221949150791467129",
     "ник_на_сервере": "Zico",
     "тегнейм": "zico0x",
@@ -24708,23 +24747,13 @@
     }
   },
   {
-    "id": "969725751060496394",
-    "ник_на_сервере": "Blackclef",
-    "тегнейм": ".johhnyk",
-    "pfp": "https://cdn.discordapp.com/avatars/969725751060496394/704777c61f606fa4976457d82ab3462a.png?size=128",
+    "id": "342239807876890625",
+    "ник_на_сервере": "djieyz",
+    "тегнейм": "djieyz",
+    "pfp": "https://cdn.discordapp.com/avatars/342239807876890625/661777eb4e3a2365ca003fb38bad2a62.png?size=128",
     "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 6,
-      "🇳🇬︱nigerian": 18
-    }
-  },
-  {
-    "id": "1169178762110304311",
-    "ник_на_сервере": "Son Goku lagi kacau",
-    "тегнейм": "fernann_45496",
-    "pfp": "https://cdn.discordapp.com/avatars/1169178762110304311/235d94fab2cadef1794da29481a1cd40.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 11,
-      "🇮🇩︱indonesian": 13
+      "🏠︱english": 3,
+      "🇮🇩︱indonesian": 21
     }
   },
   {
@@ -25145,16 +25174,6 @@
     "количество_сообщений_в_разных_каналах": {
       "🏠︱english": 19,
       "🇮🇩︱indonesian": 4
-    }
-  },
-  {
-    "id": "342239807876890625",
-    "ник_на_сервере": "djieyz",
-    "тегнейм": "djieyz",
-    "pfp": "https://cdn.discordapp.com/avatars/342239807876890625/661777eb4e3a2365ca003fb38bad2a62.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 3,
-      "🇮🇩︱indonesian": 20
     }
   },
   {
@@ -25935,6 +25954,17 @@
     }
   },
   {
+    "id": "915342849808142357",
+    "ник_на_сервере": "Andrey Rahmat",
+    "тегнейм": "andreywords",
+    "pfp": "https://cdn.discordapp.com/avatars/915342849808142357/1a36a5913185610470da7cfcc2e8258a.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🏠︱english": 4,
+      "🎨︱community-content": 1,
+      "🇮🇩︱indonesian": 17
+    }
+  },
+  {
     "id": "713186471728775218",
     "ник_на_сервере": "m a r i o 🪽",
     "тегнейм": "_m98",
@@ -26408,6 +26438,16 @@
     }
   },
   {
+    "id": "844049563257929768",
+    "ник_на_сервере": "sun king",
+    "тегнейм": "sunking8891",
+    "pfp": "https://cdn.discordapp.com/avatars/844049563257929768/4f75a6610ca80d5e2e27d50083b5d89d.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🏠︱english": 7,
+      "🇨🇳︱chinese": 14
+    }
+  },
+  {
     "id": "1149345703982805103",
     "ник_на_сервере": "joesandi 🪁",
     "тегнейм": "cuanerdrop",
@@ -26485,17 +26525,6 @@
     "количество_сообщений_в_разных_каналах": {
       "🏠︱english": 11,
       "🇮🇩︱indonesian": 10
-    }
-  },
-  {
-    "id": "915342849808142357",
-    "ник_на_сервере": "Andrey Rahmat",
-    "тегнейм": "andreywords",
-    "pfp": "https://cdn.discordapp.com/avatars/915342849808142357/1a36a5913185610470da7cfcc2e8258a.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 4,
-      "🎨︱community-content": 1,
-      "🇮🇩︱indonesian": 16
     }
   },
   {
@@ -26930,16 +26959,6 @@
     "pfp": "https://cdn.discordapp.com/avatars/1317488420913807443/c8fd39489d199344b414642dc7c7d620.png?size=128",
     "количество_сообщений_в_разных_каналах": {
       "🏠︱english": 20
-    }
-  },
-  {
-    "id": "844049563257929768",
-    "ник_на_сервере": "sun king",
-    "тегнейм": "sunking8891",
-    "pfp": "https://cdn.discordapp.com/avatars/844049563257929768/4f75a6610ca80d5e2e27d50083b5d89d.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 6,
-      "🇨🇳︱chinese": 14
     }
   },
   {
@@ -27385,15 +27404,6 @@
     }
   },
   {
-    "id": "997190793519439882",
-    "ник_на_сервере": "KIPITHRIL_",
-    "тегнейм": "kipithril_",
-    "pfp": "https://cdn.discordapp.com/avatars/997190793519439882/4b44e656723d932270cf5e7af7ff1be9.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🇮🇩︱indonesian": 20
-    }
-  },
-  {
     "id": "787387508852916228",
     "ник_на_сервере": "Maudy Asmara",
     "тегнейм": "maudyasmara",
@@ -27437,6 +27447,15 @@
     "количество_сообщений_в_разных_каналах": {
       "🏠︱english": 6,
       "🇻🇳︱vietnamese": 13
+    }
+  },
+  {
+    "id": "935635726882721802",
+    "ник_на_сервере": "AMATH ☂️",
+    "тегнейм": "amathxbt",
+    "pfp": "https://cdn.discordapp.com/avatars/935635726882721802/a83d2dfa750f4d065950ce140bdf2e16.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🏠︱english": 19
     }
   },
   {
@@ -27989,15 +28008,6 @@
     "количество_сообщений_в_разных_каналах": {
       "🎨︱community-content": 1,
       "🇻🇳︱vietnamese": 18
-    }
-  },
-  {
-    "id": "498486381161611265",
-    "ник_на_сервере": "S H Ξ N²⁶ |89|",
-    "тегнейм": "1btc.eth",
-    "pfp": "https://cdn.discordapp.com/avatars/498486381161611265/a_9a77e2b62db0e935a208b09d3cf26c74.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🇻🇳︱vietnamese": 19
     }
   },
   {
@@ -29692,6 +29702,16 @@
     }
   },
   {
+    "id": "911532105480151080",
+    "ник_на_сервере": "El-Khalīl",
+    "тегнейм": "el__khalil",
+    "pfp": "https://cdn.discordapp.com/avatars/911532105480151080/0caad08a8e301d138642466e446b1a30.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🏠︱english": 2,
+      "🎨︱community-content": 14
+    }
+  },
+  {
     "id": "1106158473793781780",
     "ник_на_сервере": "Ardiansyah Jasmin#0464$DROPEE",
     "тегнейм": "ardiansyahjasmin",
@@ -30678,16 +30698,6 @@
     "количество_сообщений_в_разных_каналах": {
       "🏠︱english": 12,
       "🇮🇳︱indian": 3
-    }
-  },
-  {
-    "id": "911532105480151080",
-    "ник_на_сервере": "El-Khalīl",
-    "тегнейм": "el__khalil",
-    "pfp": "https://cdn.discordapp.com/avatars/911532105480151080/0caad08a8e301d138642466e446b1a30.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 2,
-      "🎨︱community-content": 13
     }
   },
   {
@@ -31752,6 +31762,16 @@
     }
   },
   {
+    "id": "1315732258396700752",
+    "ник_на_сервере": null,
+    "тегнейм": "xtypeton",
+    "pfp": "https://cdn.discordapp.com/avatars/1315732258396700752/2216ee71c2574d9787d110c6c292e05c.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🇺🇦︱ukrainian": 14,
+      "🏠︱english": 1
+    }
+  },
+  {
     "id": "1210415114180894800",
     "ник_на_сервере": "shaldome",
     "тегнейм": "shaldomee",
@@ -31771,19 +31791,20 @@
     }
   },
   {
+    "id": "907865807600627752",
+    "ник_на_сервере": "Lakeside7772",
+    "тегнейм": "lakeside7772",
+    "pfp": "https://cdn.discordapp.com/avatars/907865807600627752/e9aa71b8bb6da7c0e86471aedec52e3e.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🏠︱english": 12,
+      "🇳🇬︱nigerian": 2
+    }
+  },
+  {
     "id": "829544967591559198",
     "ник_на_сервере": "ayuxia.",
     "тегнейм": "ayuxia.",
     "pfp": "https://cdn.discordapp.com/avatars/829544967591559198/838f285cd2ec89d6cdb4754b17b9e668.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 14
-    }
-  },
-  {
-    "id": "935635726882721802",
-    "ник_на_сервере": "AMATH ☂️",
-    "тегнейм": "amathxbt",
-    "pfp": "https://cdn.discordapp.com/avatars/935635726882721802/a83d2dfa750f4d065950ce140bdf2e16.png?size=128",
     "количество_сообщений_в_разных_каналах": {
       "🏠︱english": 14
     }
@@ -34411,26 +34432,6 @@
     }
   },
   {
-    "id": "1315732258396700752",
-    "ник_на_сервере": null,
-    "тегнейм": "xtypeton",
-    "pfp": "https://cdn.discordapp.com/avatars/1315732258396700752/2216ee71c2574d9787d110c6c292e05c.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🇺🇦︱ukrainian": 12,
-      "🏠︱english": 1
-    }
-  },
-  {
-    "id": "907865807600627752",
-    "ник_на_сервере": "Lakeside7772",
-    "тегнейм": "lakeside7772",
-    "pfp": "https://cdn.discordapp.com/avatars/907865807600627752/e9aa71b8bb6da7c0e86471aedec52e3e.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 11,
-      "🇳🇬︱nigerian": 1
-    }
-  },
-  {
     "id": "1218212344270815285",
     "ник_на_сервере": "DIVER",
     "тегнейм": "diverxbt",
@@ -35135,6 +35136,16 @@
     "pfp": "https://cdn.discordapp.com/avatars/1188091291578409010/e79184b20d556a759a8051739f64bd0e.png?size=128",
     "количество_сообщений_в_разных_каналах": {
       "🏠︱english": 12
+    }
+  },
+  {
+    "id": "1155880112730939392",
+    "ник_на_сервере": "Henkz (❖,❖)",
+    "тегнейм": "henkz1011",
+    "pfp": "https://cdn.discordapp.com/avatars/1155880112730939392/3fe543566cb3c54c207c21fbc6cbd9f1.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🏠︱english": 6,
+      "🇮🇩︱indonesian": 6
     }
   },
   {
@@ -36582,6 +36593,16 @@
     }
   },
   {
+    "id": "1032124133091319808",
+    "ник_на_сервере": "roscuong / Kai",
+    "тегнейм": "roscuong6666",
+    "pfp": "https://cdn.discordapp.com/avatars/1032124133091319808/7dc408a399bf6e3d95edb0d1315b308c.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🏠︱english": 5,
+      "🇻🇳︱vietnamese": 6
+    }
+  },
+  {
     "id": "402550077744218114",
     "ник_на_сервере": "Arthur Czar",
     "тегнейм": "norektguy",
@@ -36601,16 +36622,6 @@
       "🏠︱english": 9,
       "🎨︱community-content": 1,
       "🇻🇳︱vietnamese": 1
-    }
-  },
-  {
-    "id": "1155880112730939392",
-    "ник_на_сервере": "Henkz (❖,❖)",
-    "тегнейм": "henkz1011",
-    "pfp": "https://cdn.discordapp.com/avatars/1155880112730939392/3fe543566cb3c54c207c21fbc6cbd9f1.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 6,
-      "🇮🇩︱indonesian": 5
     }
   },
   {
@@ -38122,6 +38133,17 @@
     "pfp": "https://cdn.discordapp.com/avatars/1137854508639195136/4bfe4d9ade0b905a803aa5e16e979194.png?size=128",
     "количество_сообщений_в_разных_каналах": {
       "🏠︱english": 10
+    }
+  },
+  {
+    "id": "1385652253074919515",
+    "ник_на_сервере": "Liveness",
+    "тегнейм": "Liveness#1570",
+    "pfp": "https://cdn.discordapp.com/avatars/1385652253074919515/a6eb268e8abf3555152e460cca904502.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🏠︱english": 5,
+      "🇮🇩︱indonesian": 1,
+      "🇻🇳︱vietnamese": 4
     }
   },
   {
@@ -40690,6 +40712,15 @@
     }
   },
   {
+    "id": "883153274855882782",
+    "ник_на_сервере": null,
+    "тегнейм": "lugo6ix",
+    "pfp": "https://cdn.discordapp.com/avatars/883153274855882782/33b27dfeef135b4a829033a7cac550ef.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🏠︱english": 9
+    }
+  },
+  {
     "id": "1122606768929906779",
     "ник_на_сервере": "Tanjir⊙ 💜 | ⦿ ✧| 10k🦜",
     "тегнейм": "dharchangel",
@@ -42501,6 +42532,16 @@
     "pfp": "https://cdn.discordapp.com/avatars/1261654670041157685/36baae7de41880dad8742575c3075d17.png?size=128",
     "количество_сообщений_в_разных_каналах": {
       "🇮🇩︱indonesian": 8
+    }
+  },
+  {
+    "id": "1093677823874584666",
+    "ник_на_сервере": null,
+    "тегнейм": "fhagaming",
+    "pfp": "https://cdn.discordapp.com/avatars/1093677823874584666/5dc6e0a9b992a759c9d4c2db56e9b94d.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🏠︱english": 3,
+      "🇮🇩︱indonesian": 5
     }
   },
   {
@@ -46205,6 +46246,16 @@
     }
   },
   {
+    "id": "1120404860727214080",
+    "ник_на_сервере": "CCR 艾伦",
+    "тегнейм": "ccralan",
+    "pfp": "https://cdn.discordapp.com/avatars/1120404860727214080/0d6a8ef55167042abd742b0f74e7fffa.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🏠︱english": 5,
+      "🇨🇳︱chinese": 1
+    }
+  },
+  {
     "id": "1153395643327459338",
     "ник_на_сервере": "Only1davx",
     "тегнейм": "only1davx",
@@ -46533,6 +46584,16 @@
     "количество_сообщений_в_разных_каналах": {
       "🏠︱english": 5,
       "🎨︱community-content": 1
+    }
+  },
+  {
+    "id": "502839852501303327",
+    "ник_на_сервере": "DanielVo",
+    "тегнейм": "danielvo102",
+    "pfp": "https://cdn.discordapp.com/avatars/502839852501303327/a1fcf9badd54c64ca0747858c75daf7b.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🏠︱english": 5,
+      "🇻🇳︱vietnamese": 1
     }
   },
   {
@@ -48512,6 +48573,15 @@
     }
   },
   {
+    "id": "873189365621338113",
+    "ник_на_сервере": "ciaralyn",
+    "тегнейм": "lianna_nica",
+    "pfp": "https://cdn.discordapp.com/avatars/873189365621338113/7f02d57ca24b0fa0cfa6216a816211b4.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🇵🇭︱filipino": 6
+    }
+  },
+  {
     "id": "297371858007752705",
     "ник_на_сервере": "EmrhnYZ",
     "тегнейм": "emrhnyz",
@@ -48527,6 +48597,15 @@
     "pfp": "https://cdn.discordapp.com/avatars/886715860771803167/8ca8eeb0efd3c54ae46c17b6c0fd970b.png?size=128",
     "количество_сообщений_в_разных_каналах": {
       "🇹🇷︱turkish": 6
+    }
+  },
+  {
+    "id": "1151723282383507516",
+    "ник_на_сервере": null,
+    "тегнейм": "alessandro.btc",
+    "pfp": "https://cdn.discordapp.com/avatars/1151723282383507516/a799526e776f3ae50ce711a7f754657a.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🏠︱english": 6
     }
   },
   {
@@ -48546,6 +48625,16 @@
     "количество_сообщений_в_разных_каналах": {
       "🏠︱english": 2,
       "🇻🇳︱vietnamese": 4
+    }
+  },
+  {
+    "id": "1030339089452515378",
+    "ник_на_сервере": null,
+    "тегнейм": "famima4672",
+    "pfp": "https://cdn.discordapp.com/avatars/1030339089452515378/e61b51dfd0d052d52230b335aab2da96.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🏠︱english": 5,
+      "🇮🇩︱indonesian": 1
     }
   },
   {
@@ -49380,16 +49469,6 @@
     }
   },
   {
-    "id": "1120404860727214080",
-    "ник_на_сервере": "CCR 艾伦",
-    "тегнейм": "ccralan",
-    "pfp": "https://cdn.discordapp.com/avatars/1120404860727214080/0d6a8ef55167042abd742b0f74e7fffa.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 4,
-      "🇨🇳︱chinese": 1
-    }
-  },
-  {
     "id": "853631297602846762",
     "ник_на_сервере": "DioTzy",
     "тегнейм": "pitungsama",
@@ -49900,16 +49979,6 @@
     }
   },
   {
-    "id": "502839852501303327",
-    "ник_на_сервере": "DanielVo",
-    "тегнейм": "danielvo102",
-    "pfp": "https://cdn.discordapp.com/avatars/502839852501303327/a1fcf9badd54c64ca0747858c75daf7b.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 4,
-      "🇻🇳︱vietnamese": 1
-    }
-  },
-  {
     "id": "274596644694130688",
     "ник_на_сервере": null,
     "тегнейм": "bohem1a",
@@ -50292,15 +50361,6 @@
     "ник_на_сервере": "pratheep7023",
     "тегнейм": "pratheep7023",
     "pfp": "https://cdn.discordapp.com/avatars/1000994156463804436/fc3ba0c07a06a3a5f37fbc1b66de80df.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 5
-    }
-  },
-  {
-    "id": "1032124133091319808",
-    "ник_на_сервере": "roscuong / Kai",
-    "тегнейм": "roscuong6666",
-    "pfp": "https://cdn.discordapp.com/avatars/1032124133091319808/7dc408a399bf6e3d95edb0d1315b308c.png?size=128",
     "количество_сообщений_в_разных_каналах": {
       "🏠︱english": 5
     }
@@ -50738,17 +50798,6 @@
     "pfp": "https://cdn.discordapp.com/avatars/1024612740930752562/e98852965c3d1699a0f38e21c7d15896.png?size=128",
     "количество_сообщений_в_разных_каналах": {
       "🏠︱english": 5
-    }
-  },
-  {
-    "id": "1385652253074919515",
-    "ник_на_сервере": "Liveness",
-    "тегнейм": "Liveness#1570",
-    "pfp": "https://cdn.discordapp.com/avatars/1385652253074919515/a6eb268e8abf3555152e460cca904502.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 2,
-      "🇮🇩︱indonesian": 1,
-      "🇻🇳︱vietnamese": 2
     }
   },
   {
@@ -52487,10 +52536,10 @@
     }
   },
   {
-    "id": "1030339089452515378",
+    "id": "1290337750276640778",
     "ник_на_сервере": null,
-    "тегнейм": "famima4672",
-    "pfp": "https://cdn.discordapp.com/avatars/1030339089452515378/e61b51dfd0d052d52230b335aab2da96.png?size=128",
+    "тегнейм": "klaytonnnn",
+    "pfp": "https://cdn.discordapp.com/avatars/1290337750276640778/c55e42a4fd7e96700c837388aa9c625b.png?size=128",
     "количество_сообщений_в_разных_каналах": {
       "🏠︱english": 5
     }
@@ -53045,6 +53094,16 @@
     }
   },
   {
+    "id": "755337988082237472",
+    "ник_на_сервере": "JOBIAK💝",
+    "тегнейм": "jobiak.nft",
+    "pfp": "https://cdn.discordapp.com/avatars/755337988082237472/4871e41b6fb31dcc1b4781e9c762c1fa.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🏠︱english": 2,
+      "🇳🇬︱nigerian": 2
+    }
+  },
+  {
     "id": "680604734851252225",
     "ник_на_сервере": "gNius🪁",
     "тегнейм": "gnius2380",
@@ -53506,6 +53565,16 @@
     "pfp": "https://cdn.discordapp.com/avatars/870043662166413362/4dfb982dfcfaae6139c61c2b1dbde517.png?size=128",
     "количество_сообщений_в_разных_каналах": {
       "🏠︱english": 4
+    }
+  },
+  {
+    "id": "508636062340349962",
+    "ник_на_сервере": "!0xVikaJoestar",
+    "тегнейм": "vikajoestar",
+    "pfp": "https://cdn.discordapp.com/avatars/508636062340349962/0cbbbe3b54f052e221c6a06270e55628.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🏠︱english": 1,
+      "🇮🇩︱indonesian": 3
     }
   },
   {
@@ -56716,6 +56785,16 @@
     }
   },
   {
+    "id": "1029633350543097876",
+    "ник_на_сервере": "May821 ./",
+    "тегнейм": "may821",
+    "pfp": "https://cdn.discordapp.com/avatars/1029633350543097876/f0e2aa688f95090cf9df0019ac4f3e68.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🇨🇳︱chinese": 3,
+      "🎨︱community-content": 1
+    }
+  },
+  {
     "id": "1112920334539177994",
     "ник_на_сервере": "0xwenwen ./",
     "тегнейм": "wenwen09324",
@@ -57156,6 +57235,15 @@
     "pfp": "https://cdn.discordapp.com/avatars/1187949962114367569/20329449fdf7b0980586b28f63f56995.png?size=128",
     "количество_сообщений_в_разных_каналах": {
       "🇰🇷︱korean": 4
+    }
+  },
+  {
+    "id": "953942867909443619",
+    "ник_на_сервере": "ad3damola",
+    "тегнейм": "ad3damola",
+    "pfp": "https://cdn.discordapp.com/avatars/953942867909443619/c05a4557584afa6df668edc787b0daa6.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🇳🇬︱nigerian": 4
     }
   },
   {
@@ -57672,25 +57760,6 @@
     }
   },
   {
-    "id": "1151723282383507516",
-    "ник_на_сервере": null,
-    "тегнейм": "alessandro.btc",
-    "pfp": "https://cdn.discordapp.com/avatars/1151723282383507516/a799526e776f3ae50ce711a7f754657a.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 4
-    }
-  },
-  {
-    "id": "1093677823874584666",
-    "ник_на_сервере": null,
-    "тегнейм": "fhagaming",
-    "pfp": "https://cdn.discordapp.com/avatars/1093677823874584666/5dc6e0a9b992a759c9d4c2db56e9b94d.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 1,
-      "🇮🇩︱indonesian": 3
-    }
-  },
-  {
     "id": "939870869986099311",
     "ник_на_сервере": null,
     "тегнейм": "dewakipas.sol",
@@ -57727,19 +57796,19 @@
     }
   },
   {
-    "id": "1290337750276640778",
-    "ник_на_сервере": null,
-    "тегнейм": "klaytonnnn",
-    "pfp": "https://cdn.discordapp.com/avatars/1290337750276640778/c55e42a4fd7e96700c837388aa9c625b.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 4
-    }
-  },
-  {
     "id": "1205559741368107041",
     "ник_на_сервере": "KingstonRayl.",
     "тегнейм": "iamkingston23",
     "pfp": "https://cdn.discordapp.com/avatars/1205559741368107041/a29271cfa3dc9d0b35d295ecd851158a.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🏠︱english": 3
+    }
+  },
+  {
+    "id": "1156580246003392635",
+    "ник_на_сервере": "Francis",
+    "тегнейм": "neal_caffrrey",
+    "pfp": "https://cdn.discordapp.com/avatars/1156580246003392635/8387e80a9cb62c4155d6b7423a5ac0d6.png?size=128",
     "количество_сообщений_в_разных_каналах": {
       "🏠︱english": 3
     }
@@ -59132,16 +59201,6 @@
     "ник_на_сервере": "tiar",
     "тегнейм": "tiar00",
     "pfp": "https://cdn.discordapp.com/avatars/1187465836361945128/1b503118cf807bd7d564469ac6d28a11.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 1,
-      "🇮🇩︱indonesian": 2
-    }
-  },
-  {
-    "id": "508636062340349962",
-    "ник_на_сервере": "!0xVikaJoestar",
-    "тегнейм": "vikajoestar",
-    "pfp": "https://cdn.discordapp.com/avatars/508636062340349962/a_ec50eedf08bc9be55911f5e442966ab6.png?size=128",
     "количество_сообщений_в_разных_каналах": {
       "🏠︱english": 1,
       "🇮🇩︱indonesian": 2
@@ -63540,15 +63599,6 @@
     }
   },
   {
-    "id": "1029633350543097876",
-    "ник_на_сервере": "May821 ./",
-    "тегнейм": "may821",
-    "pfp": "https://cdn.discordapp.com/avatars/1029633350543097876/f0e2aa688f95090cf9df0019ac4f3e68.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🇨🇳︱chinese": 3
-    }
-  },
-  {
     "id": "1079984509002453024",
     "ник_на_сервере": "Crypto.T",
     "тегнейм": "xey6688",
@@ -64015,15 +64065,6 @@
     "ник_на_сервере": "Ayowontmisss",
     "тегнейм": "ayowontmiss",
     "pfp": "https://cdn.discordapp.com/avatars/1215413838283804722/f5cf0a833a36746aed8e516552d4ad46.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🇳🇬︱nigerian": 3
-    }
-  },
-  {
-    "id": "953942867909443619",
-    "ник_на_сервере": "ad3damola",
-    "тегнейм": "ad3damola",
-    "pfp": "https://cdn.discordapp.com/avatars/953942867909443619/c05a4557584afa6df668edc787b0daa6.png?size=128",
     "количество_сообщений_в_разных_каналах": {
       "🇳🇬︱nigerian": 3
     }
@@ -64794,15 +64835,6 @@
     }
   },
   {
-    "id": "873189365621338113",
-    "ник_на_сервере": "ciaralyn",
-    "тегнейм": "lianna_nica",
-    "pfp": "https://cdn.discordapp.com/avatars/873189365621338113/7f02d57ca24b0fa0cfa6216a816211b4.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🇵🇭︱filipino": 3
-    }
-  },
-  {
     "id": "443922241185513472",
     "ник_на_сервере": "Kimchiii김치ㅣㅣㅣ🌸",
     "тегнейм": "kimchiii0319",
@@ -64888,6 +64920,15 @@
     "ник_на_сервере": null,
     "тегнейм": "tony_payne",
     "pfp": "https://cdn.discordapp.com/avatars/1402385734903795873/4b9602bb6568515e5ce38498cfcb2063.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🏠︱english": 3
+    }
+  },
+  {
+    "id": "822158695282245653",
+    "ник_на_сервере": null,
+    "тегнейм": "boymeetsworld67",
+    "pfp": "https://cdn.discordapp.com/avatars/822158695282245653/e1c37baa5d2e61c451b8a73732c1fe60.png?size=128",
     "количество_сообщений_в_разных_каналах": {
       "🏠︱english": 3
     }
@@ -65631,16 +65672,6 @@
     "pfp": "https://cdn.discordapp.com/avatars/426023855664922624/11fb89b6bd9675862db4931a4778647c.png?size=128",
     "количество_сообщений_в_разных_каналах": {
       "🏠︱english": 2
-    }
-  },
-  {
-    "id": "755337988082237472",
-    "ник_на_сервере": "JOBIAK💝",
-    "тегнейм": "jobiak.nft",
-    "pfp": "https://cdn.discordapp.com/avatars/755337988082237472/4871e41b6fb31dcc1b4781e9c762c1fa.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 1,
-      "🇳🇬︱nigerian": 1
     }
   },
   {
@@ -75613,6 +75644,15 @@
     }
   },
   {
+    "id": "1341703126520037442",
+    "ник_на_сервере": null,
+    "тегнейм": "wizardo_cat_1",
+    "pfp": "https://cdn.discordapp.com/avatars/1341703126520037442/9052edc5ba1c9003c76796349552ceda.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🏠︱english": 2
+    }
+  },
+  {
     "id": "1190947490694955078",
     "ник_на_сервере": "Sto@mangoer",
     "тегнейм": "jkrtsn",
@@ -75626,15 +75666,6 @@
     "ник_на_сервере": "Tsubasa12",
     "тегнейм": "deni168749",
     "pfp": "https://cdn.discordapp.com/avatars/1088762397851922463/75476ff6ca88f7dbda5fb80f28eaa875.png?size=128",
-    "количество_сообщений_в_разных_каналах": {
-      "🏠︱english": 1
-    }
-  },
-  {
-    "id": "1156580246003392635",
-    "ник_на_сервере": "Francis",
-    "тегнейм": "neal_caffrrey",
-    "pfp": "https://cdn.discordapp.com/avatars/1156580246003392635/8387e80a9cb62c4155d6b7423a5ac0d6.png?size=128",
     "количество_сообщений_в_разных_каналах": {
       "🏠︱english": 1
     }
@@ -96202,6 +96233,42 @@
     "pfp": "https://cdn.discordapp.com/avatars/1227019004145569938/9f4e3d9fd85072b824f274b7360c27d8.png?size=128",
     "количество_сообщений_в_разных_каналах": {
       "🇳🇬︱nigerian": 1
+    }
+  },
+  {
+    "id": "890807850010566697",
+    "ник_на_сервере": null,
+    "тегнейм": "august185572",
+    "pfp": "https://cdn.discordapp.com/avatars/890807850010566697/9efeb9d2643c47f0f2c986fe1c9af4d9.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🏠︱english": 1
+    }
+  },
+  {
+    "id": "1345491697085452368",
+    "ник_на_сервере": null,
+    "тегнейм": "leanh.nad",
+    "pfp": "https://cdn.discordapp.com/avatars/1345491697085452368/8e122af93f31b7a0c2c552fc017ba3a4.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🏠︱english": 1
+    }
+  },
+  {
+    "id": "1216988456308183175",
+    "ник_на_сервере": null,
+    "тегнейм": "date00908",
+    "pfp": "https://cdn.discordapp.com/avatars/1216988456308183175/0a01bf3676c7649b0b21e7aaedfbaa93.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🏠︱english": 1
+    }
+  },
+  {
+    "id": "833405694652055582",
+    "ник_на_сервере": null,
+    "тегнейм": "aaranemoswapido",
+    "pfp": "https://cdn.discordapp.com/avatars/833405694652055582/9bfe9ac8b1f745a3b8f036b8e0534f70.png?size=128",
+    "количество_сообщений_в_разных_каналах": {
+      "🇰🇷︱korean": 1
     }
   }
 ]
